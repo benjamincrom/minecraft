@@ -27,3 +27,6 @@
 [03:06:51] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
 [03:06:51] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
 [03:07:18] [Server thread/INFO]: The world's default game mode is now Creative Mode
+[03:12:24] [User Authenticator #1/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[03:12:24] [Server thread/INFO]: bcrom[/70.193.177.38:16878] logged in with entity id 168 at (18.351408693323002, 93.1047015370879, 35.65565834611569)
+[03:12:24] [Server thread/INFO]: bcrom joined the game
