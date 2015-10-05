@@ -458,3 +458,5 @@
 [06:54:06] [Server thread/INFO]: [bcrom: Killed bcrom]
 [06:57:11] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [06:57:11] [Server thread/INFO]: bcrom left the game
+[07:38:52] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:38:52] [Server thread/INFO]: treeling left the game
