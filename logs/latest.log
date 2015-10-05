@@ -460,3 +460,8 @@
 [06:57:11] [Server thread/INFO]: bcrom left the game
 [07:38:52] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [07:38:52] [Server thread/INFO]: treeling left the game
+[15:58:23] [User Authenticator #8/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[15:58:24] [Server thread/INFO]: bcrom[/4.16.119.202:55917] logged in with entity id 480477 at (-52.30000001192093, 64.0, -28.30000001192093)
+[15:58:24] [Server thread/INFO]: bcrom joined the game
+[15:58:57] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:58:57] [Server thread/INFO]: bcrom left the game
