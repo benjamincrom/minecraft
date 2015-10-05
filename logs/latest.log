@@ -1,22 +1,29 @@
-[03:37:28] [User Authenticator #3/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[03:37:28] [Server thread/INFO]: gerg_9358[/94.185.84.58:55524] logged in with entity id 214113 at (54.546516992745495, 89.0, 250.8690807310695)
-[03:37:28] [Server thread/INFO]: gerg_9358 joined the game
-[03:57:08] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:57:08] [Server thread/INFO]: gerg_9358 left the game
-[03:57:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@49995e97[id=<null>,name=gerg_9358,properties={},legacy=false] (/50.147.49.115:55850) lost connection: Disconnected
-[03:57:37] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@49995e97[id=<null>,name=gerg_9358,properties={},legacy=false] (/50.147.49.115:55850): Authentication servers are down. Please try again later, sorry!
-[03:57:37] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
-[03:57:38] [User Authenticator #5/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[03:57:38] [Server thread/INFO]: gerg_9358[/50.147.49.115:55855] logged in with entity id 226602 at (34.5, 61.65, 256.79014196412237)
-[03:57:38] [Server thread/INFO]: gerg_9358 joined the game
-[07:01:45] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[07:01:45] [Server thread/INFO]: gerg_9358 left the game
-[17:14:32] [User Authenticator #6/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[17:14:32] [Server thread/INFO]: gerg_9358[/50.147.49.115:57283] logged in with entity id 351379 at (18.996869300761222, 101.0, 211.7948373917312)
-[17:14:32] [Server thread/INFO]: gerg_9358 joined the game
-[17:25:27] [User Authenticator #7/INFO]: UUID of player ashlypearson is d8b9db4a-9f79-4f60-af58-822099e1790d
-[17:25:27] [Server thread/INFO]: ashlypearson[/50.147.49.115:58704] logged in with entity id 370259 at (65.95372880180713, 92.96806848966335, -105.34272374536046)
-[17:25:27] [Server thread/INFO]: ashlypearson joined the game
-[17:28:50] [Server thread/INFO]: ashlypearson has just earned the achievement [Taking Inventory]
-[18:06:54] [Server thread/INFO]: ashlypearson lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:06:54] [Server thread/INFO]: ashlypearson left the game
+[03:05:48] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[03:05:48] [Server thread/INFO]: Loading properties
+[03:05:48] [Server thread/INFO]: Default game type: SURVIVAL
+[03:05:48] [Server thread/INFO]: Generating keypair
+[03:05:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:05:48] [Server thread/INFO]: Using epoll channel type
+[03:05:48] [Server thread/INFO]: Preparing level "world"
+[03:05:48] [Server thread/INFO]: Preparing start region for level 0
+[03:05:49] [Server thread/INFO]: Done (0.724s)! For help, type "help" or "?"
+[03:05:57] [Server thread/INFO]: Turned on the whitelist
+[03:06:04] [Server thread/INFO]: Added gerg_9358 to the whitelist
+[03:06:10] [Server thread/INFO]: Added treeling to the whitelist
+[03:06:17] [Server thread/INFO]: Added ashlypearson to the whitelist
+[03:06:20] [Server thread/INFO]: Added bcrom to the whitelist
+[03:06:26] [Server thread/INFO]: Opped ashlypearson
+[03:06:30] [Server thread/INFO]: Opped treeling
+[03:06:31] [Server thread/INFO]: Opped bcrom
+[03:06:36] [Server thread/INFO]: Opped gerg_9358
+[03:06:42] [Server thread/INFO]: Turned on the whitelist
+[03:06:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[03:06:51] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[03:06:51] [Server thread/INFO]: /achievement <give|take> <stat_name|*> [player]
+[03:06:51] [Server thread/INFO]: /ban <name> [reason ...]
+[03:06:51] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[03:06:51] [Server thread/INFO]: /banlist [ips|players]
+[03:06:51] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[03:06:51] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[03:06:51] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[03:07:18] [Server thread/INFO]: The world's default game mode is now Creative Mode
