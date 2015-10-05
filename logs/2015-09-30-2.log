@@ -1,0 +1,10 @@
+[15:59:47] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:59:47] [Server thread/INFO]: Loading properties
+[15:59:47] [Server thread/INFO]: Default game type: SURVIVAL
+[15:59:47] [Server thread/INFO]: Generating keypair
+[15:59:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:59:47] [Server thread/INFO]: Using epoll channel type
+[15:59:47] [Server thread/INFO]: Preparing level "world"
+[15:59:47] [Server thread/INFO]: Preparing start region for level 0
+[15:59:48] [Server thread/INFO]: Done (0.616s)! For help, type "help" or "?"
+[16:00:54] [Server thread/INFO]: The world's default game mode is now Creative Mode
