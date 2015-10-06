@@ -5,3 +5,7 @@
 [02:30:41] [Server thread/INFO]: ashlypearson[/50.147.49.115:53969] logged in with entity id 485541 at (75.60286231984537, 63.0, -136.8884370984659)
 [02:30:41] [Server thread/INFO]: ashlypearson joined the game
 [02:35:01] [Server thread/INFO]: [gerg_9358: Set the time to 0]
+[04:27:03] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:27:03] [Server thread/INFO]: gerg_9358 left the game
+[04:27:58] [Server thread/INFO]: ashlypearson lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:27:58] [Server thread/INFO]: ashlypearson left the game
