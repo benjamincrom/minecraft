@@ -152,3 +152,6 @@
 [15:17:34] [User Authenticator #18/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
 [15:17:34] [Server thread/INFO]: treeling[/166.170.52.27:35327] logged in with entity id 964916 at (-718.434105171052, 49.5, -731.8870602984366)
 [15:17:34] [Server thread/INFO]: treeling joined the game
+[16:11:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fb046c1[id=<null>,name=gerg_9358,properties={},legacy=false] (/160.36.138.31:41406) lost connection: Disconnected
+[16:11:40] [User Authenticator #19/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fb046c1[id=<null>,name=gerg_9358,properties={},legacy=false] (/160.36.138.31:41406): Authentication servers are down. Please try again later, sorry!
+[16:11:40] [User Authenticator #19/ERROR]: Couldn't verify username because servers are unavailable
