@@ -1,3 +1,101 @@
 [02:58:54] [User Authenticator #11/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
 [02:58:54] [Server thread/INFO]: treeling[/70.193.134.22:9929] logged in with entity id 653803 at (-717.5767618492382, 66.0, -751.0234296213006)
 [02:58:54] [Server thread/INFO]: treeling joined the game
+[03:00:14] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:00:14] [Server thread/INFO]: treeling left the game
+[03:02:42] [User Authenticator #12/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
+[03:02:42] [Server thread/INFO]: treeling[/70.193.134.22:11162] logged in with entity id 655739 at (-717.5767618492382, 66.0, -751.0234296213006)
+[03:02:42] [Server thread/INFO]: treeling joined the game
+[03:11:39] [User Authenticator #13/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[03:11:39] [Server thread/INFO]: gerg_9358[/50.147.49.115:58442] logged in with entity id 663316 at (19.46971742135904, 110.0, 211.47801744992736)
+[03:11:39] [Server thread/INFO]: gerg_9358 joined the game
+[03:12:08] [Server thread/INFO]: <treeling> Greg, come see the beginning of the Disco Palace!
+[03:12:16] [Server thread/INFO]: <gerg_9358> Whaaa!!
+[03:12:24] [Server thread/INFO]: <gerg_9358> I hope there are colored wool floors...
+[03:12:35] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to treeling]
+[03:12:42] [Server thread/INFO]: <gerg_9358> ahhh!!
+[03:12:46] [Server thread/INFO]: <treeling> Those rooms aren't done yet, but there will be
+[03:13:11] [Server thread/INFO]: <gerg_9358> This is awesome
+[03:13:27] [Server thread/INFO]: <gerg_9358> hmmmmmmm
+[03:13:36] [Server thread/INFO]: <treeling> hm?
+[03:13:40] [Server thread/INFO]: <gerg_9358> so these bits here- eventual hallways, or just there for decoration?
+[03:13:45] [Server thread/INFO]: <gerg_9358> (where I'm standing)
+[03:14:01] [Server thread/INFO]: <treeling> eventual hallways
+[03:14:08] [Server thread/INFO]: <gerg_9358> Ah, k
+[03:14:17] [Server thread/INFO]: <gerg_9358> I will not install fountains then : D
+[03:14:22] [Server thread/INFO]: <treeling> there will be a giant room at the bottom
+[03:14:25] [Server thread/INFO]: <treeling> hahaha
+[03:14:31] [Server thread/INFO]: <treeling> there will be a lava fall.
+[03:14:32] [Server thread/INFO]: <gerg_9358> Ahhh this is gonna be awesome
+[03:14:54] [Server thread/INFO]: <gerg_9358> oo, and maybe a colored glass floor with lava under it...
+[03:15:02] [Server thread/INFO]: <gerg_9358> Hm, glowstone might look better
+[03:15:13] [Server thread/INFO]: <treeling> both!
+[03:15:22] [User Authenticator #15/INFO]: Disconnecting /70.193.134.22:11144: Failed to verify username!
+[03:15:22] [Server thread/INFO]: /70.193.134.22:11144 lost connection: Failed to verify username!
+[03:15:22] [User Authenticator #14/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[03:15:22] [Server thread/INFO]: bcrom[/70.193.134.22:11143] logged in with entity id 667937 at (-43.69999998807907, 64.0, -30.398780874546944)
+[03:15:22] [Server thread/INFO]: bcrom joined the game
+[03:15:26] [Server thread/INFO]: <treeling> We need a good dance floor in a disco palace.
+[03:15:36] [Server thread/INFO]: [bcrom: Teleported bcrom to gerg_9358]
+[03:15:43] [Server thread/INFO]: <bcrom> cousin!
+[03:15:49] [Server thread/INFO]: <gerg_9358> cousin!
+[03:16:00] [Server thread/INFO]: <gerg_9358> hmm
+[03:16:04] [Server thread/INFO]: <gerg_9358> what do you think
+[03:16:06] [Server thread/INFO]: <bcrom> sorry
+[03:16:08] [Server thread/INFO]: <bcrom> nice!
+[03:16:24] [Server thread/INFO]: <bcrom> kim approves
+[03:16:32] [Server thread/INFO]: <gerg_9358> I want something that emits light but doesn't have a texture
+[03:16:55] [Server thread/INFO]: <gerg_9358> wait
+[03:17:05] [Server thread/INFO]: <gerg_9358> ahhh!!!
+[03:17:07] [Server thread/INFO]: <bcrom> oooh!
+[03:17:09] [Server thread/INFO]: <gerg_9358> Sea Lantern
+[03:17:17] [Server thread/INFO]: <gerg_9358> some newfangled block
+[03:17:23] [Server thread/INFO]: <gerg_9358> that'll do
+[03:17:48] [Server thread/INFO]: <gerg_9358> Oh, these were just a test. The dance floor should go where it looks best : D
+[03:17:56] [Server thread/INFO]: <gerg_9358> Oops! SOrry
+[03:18:05] [Server thread/INFO]: <bcrom> nah, no worries
+[03:18:33] [Server thread/INFO]: <bcrom> so have you seen the indie game movie?
+[03:19:25] [Server thread/INFO]: <bcrom> tp bcrom gerg_9358
+[03:19:29] [Server thread/INFO]: <gerg_9358> I'm here
+[03:19:47] [Server thread/INFO]: <gerg_9358> Oo, Beacon Blocks also look cool
+[03:20:06] [Server thread/INFO]: <bcrom> indeed
+[03:20:11] [Server thread/INFO]: <gerg_9358> excellent
+[03:20:24] [Server thread/INFO]: <bcrom> hey, what if I make a circle of these end portal blocks?
+[03:20:26] [Server thread/INFO]: <bcrom> XD
+[03:20:33] [Server thread/INFO]: <gerg_9358> loool
+[03:20:39] [Server thread/INFO]: <treeling> no!
+[03:24:57] [Server thread/INFO]: <gerg_9358> so uhh, this place is pretty remote
+[03:25:08] [Server thread/INFO]: <gerg_9358> ah! yay, m'lighthouse
+[03:25:13] [Server thread/INFO]: <treeling> yeah.....
+[03:25:21] [Server thread/INFO]: <treeling> my bad
+[03:25:21] [Server thread/INFO]: <bcrom> oh, did you find the beacons?
+[03:25:36] [Server thread/INFO]: <gerg_9358> lol hm, we'll have to team up on the tunnel for this one
+[03:25:46] [Server thread/INFO]: <bcrom> so Kim got lost and started building this and I had to teleport out to her and try to find my way ba
+[03:25:49] [Server thread/INFO]: <bcrom> way back
+[03:25:51] [Server thread/INFO]: <gerg_9358> yes, the beacons were great! They guided me home
+[03:25:57] [Server thread/INFO]: <bcrom> f3 was handy
+[03:26:01] [Server thread/INFO]: <gerg_9358> loool
+[03:26:04] [Server thread/INFO]: <bcrom> yaaaaaaaaay!
+[03:26:06] [Server thread/INFO]: <gerg_9358> ooo, indeed it is
+[03:26:09] [Server thread/INFO]: <gerg_9358> that's how you get coordinates
+[03:26:13] [Server thread/INFO]: <bcrom> yeah, it's two-bowl trip
+[03:26:24] [Server thread/INFO]: <gerg_9358> There is a mod that gives you waypoints, I just haven't installed it yet
+[03:26:25] [Server thread/INFO]: <gerg_9358> LOL
+[03:26:48] [Server thread/INFO]: <bcrom> so would you like ssh access?
+[03:27:05] [Server thread/INFO]: <bcrom> send me your public ssh key in the gchat
+[03:27:16] [Server thread/INFO]: <bcrom> or I can set you an account with a throwaway password
+[03:27:22] [Server thread/INFO]: <gerg_9358> hummm
+[03:27:37] [Server thread/INFO]: <bcrom> yeah, gonna put your password in chat
+[03:27:40] [Server thread/INFO]: <gerg_9358> All good for now
+[03:27:43] [Server thread/INFO]: <gerg_9358> oh!
+[03:28:03] [Server thread/INFO]: <gerg_9358> that's cool. I probably don't need it; I'm pretty sure that mod is client-side
+[03:28:13] [Server thread/INFO]: <bcrom> oh, okay
+[03:28:16] [Server thread/INFO]: <gerg_9358> It stores the waypoints in %appdata%
+[03:28:18] [Server thread/INFO]: <bcrom> let me know if you ever want it
+[03:28:23] [Server thread/INFO]: <bcrom> ahhhhhh
+[03:28:25] [Server thread/INFO]: <gerg_9358> Thanks : D
+[03:28:31] [Server thread/INFO]: <gerg_9358> I think it was Rei's Minimap
+[03:28:42] [Server thread/INFO]: <gerg_9358> It also gave you a minimap
+[03:28:46] [Server thread/INFO]: <gerg_9358> If you didn't guess that already
+[03:29:39] [Server thread/INFO]: <gerg_9358> Bah, it's not current with 1.8.8. A Post-It will do : D
+[03:31:22] [Server thread/INFO]: <bcrom> lol
