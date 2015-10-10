@@ -5,3 +5,5 @@
 [01:46:05] [User Authenticator #26/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
 [01:46:05] [Server thread/INFO]: treeling[/70.193.164.176:11490] logged in with entity id 1549995 at (-718.8294752344276, 43.020598439869524, -691.4596817020962)
 [01:46:05] [Server thread/INFO]: treeling joined the game
+[03:44:24] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:24] [Server thread/INFO]: treeling left the game
