@@ -1,77 +1,10 @@
-[01:09:36] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:09:36] [Server thread/INFO]: gerg_9358 left the game
-[01:44:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5286784f[id=<null>,name=treeling,properties={},legacy=false] (/70.193.164.176:9234) lost connection: Disconnected
-[01:44:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@37600ed2[id=<null>,name=treeling,properties={},legacy=false] (/70.193.164.176:9230) lost connection: Disconnected
-[01:46:05] [User Authenticator #26/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[01:46:05] [Server thread/INFO]: treeling[/70.193.164.176:11490] logged in with entity id 1549995 at (-718.8294752344276, 43.020598439869524, -691.4596817020962)
-[01:46:05] [Server thread/INFO]: treeling joined the game
-[03:44:24] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:44:24] [Server thread/INFO]: treeling left the game
-[04:21:11] [User Authenticator #27/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[04:21:11] [Server thread/INFO]: gerg_9358[/50.147.49.115:52349] logged in with entity id 1702008 at (67.75842190689949, 53.0, -126.69363443343892)
-[04:21:11] [Server thread/INFO]: gerg_9358 joined the game
-[05:07:23] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[05:08:02] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:08:02] [Server thread/INFO]: gerg_9358 left the game
-[05:08:07] [User Authenticator #28/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[05:08:07] [Server thread/INFO]: gerg_9358[/50.147.49.115:52428] logged in with entity id 1733212 at (18.69941723574989, 103.6779899365371, 211.02013864184147)
-[05:08:07] [Server thread/INFO]: gerg_9358 joined the game
-[05:39:35] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[05:41:51] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
-[06:09:02] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:09:02] [Server thread/INFO]: gerg_9358 left the game
-[16:16:17] [User Authenticator #29/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[16:16:17] [Server thread/INFO]: gerg_9358[/50.147.49.115:54088] logged in with entity id 1807138 at (82.78492860805122, 63.0, -131.95924312456305)
-[16:16:17] [Server thread/INFO]: gerg_9358 joined the game
-[17:02:57] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:02:57] [Server thread/INFO]: gerg_9358 left the game
-[19:46:39] [User Authenticator #30/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[19:46:39] [Server thread/INFO]: gerg_9358[/50.147.49.115:54552] logged in with entity id 1899588 at (-693.9923598300282, 58.959007000211564, -685.3724256692318)
-[19:46:39] [Server thread/INFO]: gerg_9358 joined the game
-[20:02:24] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
-[20:06:34] [Server thread/INFO]: [gerg_9358: Set the time to 10]
-[20:06:37] [Server thread/INFO]: [gerg_9358: Set the time to 15]
-[20:06:39] [Server thread/INFO]: [gerg_9358: Set the time to 20]
-[20:06:43] [Server thread/INFO]: [gerg_9358: Set the time to 50]
-[20:06:52] [Server thread/INFO]: [gerg_9358: Set the time to 100]
-[20:06:58] [Server thread/INFO]: [gerg_9358: Set the time to 30]
-[20:07:02] [Server thread/INFO]: [gerg_9358: Set the time to 90]
-[20:07:06] [Server thread/INFO]: [gerg_9358: Set the time to 60]
-[20:07:11] [Server thread/INFO]: [gerg_9358: Set the time to 500]
-[20:07:15] [Server thread/INFO]: [gerg_9358: Set the time to 800]
-[20:07:21] [Server thread/INFO]: [gerg_9358: Set the time to 5000]
-[20:07:26] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[20:09:01] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[20:09:09] [Server thread/INFO]: [gerg_9358: Set the time to 1800]
-[20:09:16] [Server thread/INFO]: [gerg_9358: Set the time to 18000]
-[20:13:28] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[20:24:51] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[21:08:21] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
-[21:08:23] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[21:10:26] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[21:10:35] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[22:11:01] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[22:36:55] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[22:50:17] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[23:21:16] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:21:16] [Server thread/INFO]: gerg_9358 left the game
-[23:35:43] [User Authenticator #31/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[23:35:44] [Server thread/INFO]: gerg_9358[/50.147.49.115:57193] logged in with entity id 2247473 at (-54.90536086225964, 82.58806484445263, -91.54766831781303)
-[23:35:44] [Server thread/INFO]: gerg_9358 joined the game
-[23:35:47] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:35:47] [Server thread/INFO]: gerg_9358 left the game
-[23:47:07] [User Authenticator #32/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[23:47:07] [Server thread/INFO]: gerg_9358[/50.147.49.115:59096] logged in with entity id 2247750 at (-57.232399724793915, 82.58806484445263, -88.86402322974757)
-[23:47:07] [Server thread/INFO]: gerg_9358 joined the game
-[23:47:17] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:47:17] [Server thread/INFO]: gerg_9358 left the game
-[23:52:30] [User Authenticator #33/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[23:52:30] [Server thread/INFO]: gerg_9358[/50.147.49.115:59615] logged in with entity id 2248035 at (-42.95982170319153, 82.58806484445263, -84.74780214745984)
-[23:52:30] [Server thread/INFO]: gerg_9358 joined the game
-[23:53:52] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:53:52] [Server thread/INFO]: gerg_9358 left the game
-[23:53:56] [User Authenticator #34/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[23:53:56] [Server thread/INFO]: gerg_9358[/50.147.49.115:59620] logged in with entity id 2252542 at (20.291693941415478, 96.46843350684928, -97.95103044465769)
-[23:53:56] [Server thread/INFO]: gerg_9358 joined the game
-[23:56:02] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[23:56:07] [Server thread/INFO]: [gerg_9358: Set the time to 0]
+[00:08:08] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:08:08] [Server thread/INFO]: gerg_9358 left the game
+[00:08:12] [User Authenticator #35/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[00:08:12] [Server thread/INFO]: gerg_9358[/50.147.49.115:59658] logged in with entity id 2291374 at (-717.5493182241961, 42.0, -694.5955625264918)
+[00:08:12] [Server thread/INFO]: gerg_9358 joined the game
+[00:27:47] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:27:47] [Server thread/INFO]: gerg_9358 left the game
+[00:27:51] [User Authenticator #36/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[00:27:51] [Server thread/INFO]: gerg_9358[/50.147.49.115:59835] logged in with entity id 2330011 at (-697.1274294074955, 70.0, -682.3963599428824)
+[00:27:51] [Server thread/INFO]: gerg_9358 joined the game
