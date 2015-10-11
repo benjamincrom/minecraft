@@ -58,3 +58,237 @@
 [19:10:57] [Server thread/INFO]: ashlypearson left the game
 [20:21:46] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 106.5, 46.0, -142.5]
 [20:21:59] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 35.5, 63.0, -125.5]
+[21:16:13] [User Authenticator #45/INFO]: UUID of player jwhite69 is 13442ed0-cc78-463b-8413-19dc7211c57f
+[21:16:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d39b993[id=13442ed0-cc78-463b-8413-19dc7211c57f,name=jwhite69,properties={textures=[com.mojang.authlib.properties.Property@5c42c2c]},legacy=false] (/24.130.209.30:49891): You are not white-listed on this server!
+[21:16:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@d39b993[id=13442ed0-cc78-463b-8413-19dc7211c57f,name=jwhite69,properties={textures=[com.mojang.authlib.properties.Property@5c42c2c]},legacy=false] (/24.130.209.30:49891) lost connection: You are not white-listed on this server!
+[21:16:52] [Server thread/INFO]: [gerg_9358: Opped jwhite69]
+[21:17:43] [User Authenticator #46/INFO]: UUID of player jwhite69 is 13442ed0-cc78-463b-8413-19dc7211c57f
+[21:17:43] [Server thread/INFO]: jwhite69[/24.130.209.30:50454] logged in with entity id 3082289 at (11.032071440485048, 62.0, -654.4359378956341)
+[21:17:43] [Server thread/INFO]: jwhite69 joined the game
+[21:17:52] [Server thread/INFO]: <gerg_9358> w00t!
+[21:18:01] [Server thread/INFO]: jwhite69 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:18:01] [Server thread/INFO]: jwhite69 left the game
+[21:18:05] [User Authenticator #47/INFO]: UUID of player jwhite69 is 13442ed0-cc78-463b-8413-19dc7211c57f
+[21:18:05] [Server thread/INFO]: jwhite69[/24.130.209.30:50473] logged in with entity id 3083447 at (11.032071440485048, 62.0, -654.4359378956341)
+[21:18:05] [Server thread/INFO]: jwhite69 joined the game
+[21:18:15] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:18:25] [Server thread/INFO]: <gerg_9358> huh
+[21:18:30] [Server thread/INFO]: <gerg_9358> what a weird place to spawn
+[21:18:47] [Server thread/INFO]: <jwhite69> yeah it's been a while
+[21:18:53] [Server thread/INFO]: <gerg_9358> oh, double-tap space to fly
+[21:19:00] [Server thread/INFO]: <jwhite69> lol just about to ask
+[21:19:01] [Server thread/INFO]: <gerg_9358> Ah! Did you build this house?
+[21:19:48] [Server thread/INFO]: <gerg_9358> lol sooo, not sure how to get to civilization from here
+[21:19:59] [Server thread/INFO]: <jwhite69> haha
+[21:20:10] [Server thread/INFO]: <jwhite69> maybe I should build here
+[21:20:12] [Server thread/INFO]: <gerg_9358> I can teleport us, I have ze coordinates
+[21:20:18] [Server thread/INFO]: <jwhite69> nice and peaceful
+[21:20:19] [Server thread/INFO]: <gerg_9358> lol!!
+[21:20:28] [Server thread/INFO]: <gerg_9358> I'll build rail out here...
+[21:20:37] [Server thread/INFO]: <gerg_9358> I wonder how far away it is
+[21:20:46] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:20:49] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 35.5, 63.0, -125.5]
+[21:20:54] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:20:56] [Server thread/INFO]: <gerg_9358> ah!
+[21:20:58] [Server thread/INFO]: <gerg_9358> not bad at all
+[21:21:04] [Server thread/INFO]: <jwhite69> whoa!
+[21:21:05] [Server thread/INFO]: <gerg_9358> half a klick
+[21:21:13] [Server thread/INFO]: <gerg_9358> hehehe we've been busy
+[21:21:17] [Server thread/INFO]: <gerg_9358> this is Ashly's
+[21:21:34] [Server thread/INFO]: <gerg_9358> hehe the test
+[21:21:36] [Server thread/INFO]: <gerg_9358> will he break it..
+[21:21:37] [Server thread/INFO]: <gerg_9358> lol
+[21:21:39] [Server thread/INFO]: <gerg_9358> right-click XD
+[21:21:41] [Server thread/INFO]: <jwhite69> lol sorry
+[21:21:47] [Server thread/INFO]: <gerg_9358> lol everyone does it
+[21:21:50] [Server thread/INFO]: <jwhite69> on my mbp trackpad
+[21:21:54] [Server thread/INFO]: <gerg_9358> ahh!
+[21:21:56] [Server thread/INFO]: <gerg_9358> nicely done
+[21:22:17] [Server thread/INFO]: <gerg_9358> feel free to grab a mouse, I must run to the restroom...
+[21:22:29] [Server thread/INFO]: <jwhite69> very chic
+[21:22:38] [Server thread/INFO]: <jwhite69> shall we ride the railway?
+[21:23:58] [Server thread/INFO]: <gerg_9358> indeed!
+[21:24:01] [Server thread/INFO]: <gerg_9358> the station is right here
+[21:24:20] [Server thread/INFO]: <gerg_9358> stick your minecart on the red rail by right-clicking, then rick it it to get in
+[21:24:30] [Server thread/INFO]: <gerg_9358> then push the button on the green square
+[21:24:40] [Server thread/INFO]: <gerg_9358> : D
+[21:24:40] [Server thread/INFO]: <jwhite69> proper!
+[21:24:47] [Server thread/INFO]: <gerg_9358> oh just wait
+[21:25:06] [Server thread/INFO]: <jwhite69> disco palace!!!
+[21:25:07] [Server thread/INFO]: <gerg_9358> finished this one this morning
+[21:25:25] [Server thread/INFO]: <gerg_9358> lol this one is a bit of a trip
+[21:25:26] [Server thread/INFO]: jwhite69 has just earned the achievement [Taking Inventory]
+[21:25:29] [Server thread/INFO]: <gerg_9358> get ye your nail ready!
+[21:25:48] [Server thread/INFO]: <jwhite69> warming up the volcano!
+[21:26:18] [Server thread/INFO]: <gerg_9358> this one gives you plenty of time XD
+[21:26:38] [Server thread/INFO]: <gerg_9358> and I've modified all the stations so you don't need to get out to either loop back or change dest.
+[21:27:10] [Server thread/INFO]: <jwhite69> wow, ever thought about civ E consulting? :D
+[21:27:25] [Server thread/INFO]: <gerg_9358> hahaha
+[21:27:33] [Server thread/INFO]: <gerg_9358> I do enjoy infrastructure : D
+[21:28:25] [Server thread/INFO]: <gerg_9358> hmm
+[21:28:25] [Server thread/INFO]: <jwhite69> ummm
+[21:28:28] [Server thread/INFO]: <gerg_9358> hop out, left shift
+[21:28:29] [Server thread/INFO]: <jwhite69> how do i get out?
+[21:28:35] [Server thread/INFO]: <gerg_9358> yeah
+[21:28:41] [Server thread/INFO]: <gerg_9358> this station doesn't work so well with two people
+[21:28:50] [Server thread/INFO]: <jwhite69> this way?
+[21:28:51] [Server thread/INFO]: <gerg_9358> it's rudimentary since Kim's going to move this tunnel around a bit
+[21:28:53] [Server thread/INFO]: <gerg_9358> yeah
+[21:29:04] [Server thread/INFO]: <jwhite69> whooooaaaaa
+[21:29:27] [Server thread/INFO]: <gerg_9358> yeah, they built this very recently, and it's awesome
+[21:29:42] [Server thread/INFO]: <gerg_9358> oh man, you should check out that beacon (bright shaft of light) on the surface
+[21:29:52] [Server thread/INFO]: <gerg_9358> well, after seeing the rest of this place XD
+[21:30:13] [Server thread/INFO]: <gerg_9358> ahhh the squid is still here
+[21:30:25] [Server thread/INFO]: <jwhite69> octopussy?
+[21:30:29] [Server thread/INFO]: <gerg_9358> loool
+[21:30:37] [Server thread/INFO]: <jwhite69> this way to the balls tripping?
+[21:30:43] [Server thread/INFO]: <gerg_9358> well
+[21:30:45] [Server thread/INFO]: <gerg_9358> we started inside
+[21:30:48] [Server thread/INFO]: <gerg_9358> the entrance is this way
+[21:30:56] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
+[21:31:05] [Server thread/INFO]: <gerg_9358> the front door : D
+[21:31:25] [Server thread/INFO]: <jwhite69> uno momento, gotta get properly baked :)
+[21:31:39] [Server thread/INFO]: <gerg_9358> lol yeah, my character needs bong rip animations
+[21:35:34] [Server thread/INFO]: <gerg_9358> this is all Ben & Kim
+[21:35:53] [Server thread/INFO]: <gerg_9358> well, I did a little meddling; I made the E in dance 6 blocks high instead of a nice, consistent 5
+[21:35:58] [Server thread/INFO]: <gerg_9358> it looked funny
+[21:36:41] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:36:47] [Server thread/INFO]: <gerg_9358> lol!
+[21:36:53] [Server thread/INFO]: <gerg_9358> they're docile in Creative
+[21:36:55] [Server thread/INFO]: <gerg_9358> which is weird
+[21:36:58] [Server thread/INFO]: <jwhite69> where did he come from?
+[21:36:59] [Server thread/INFO]: <jwhite69> ah
+[21:37:06] [Server thread/INFO]: <gerg_9358> they spawn whenever the lighting is low enough
+[21:37:17] [Server thread/INFO]: <gerg_9358> that's why you'll see glowstone pretty much everywhere
+[21:37:25] [Server thread/INFO]: <gerg_9358> (or some other kind of lighting)
+[21:37:35] [Server thread/INFO]: <gerg_9358> hehe wanna see a gadget?
+[21:37:55] [Server thread/INFO]: <jwhite69> ooh where does this go?
+[21:38:03] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:38:12] [Server thread/INFO]: <gerg_9358> hmm
+[21:38:18] [Server thread/INFO]: <gerg_9358> I think this room is part of a cave network
+[21:38:28] [Server thread/INFO]: <gerg_9358> They're procedurally/randomly generated
+[21:38:33] [Server thread/INFO]: <jwhite69> man the bar has been set pretty high
+[21:38:43] [Server thread/INFO]: <gerg_9358> then Ben & Kim hollowed out this room
+[21:38:50] [Server thread/INFO]: <jwhite69> I'm going to have to think real hard about what I'm going to build
+[21:38:56] [Server thread/INFO]: <gerg_9358> hehe
+[21:38:56] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:39:00] [Server thread/INFO]: <gerg_9358> you should play with some redstone
+[21:39:16] [Server thread/INFO]: <gerg_9358> most of the stuff I build is underground
+[21:39:19] [Server thread/INFO]: <jwhite69> make a little circut?
+[21:39:21] [Server thread/INFO]: <gerg_9358> hehe
+[21:39:25] [Server thread/INFO]: <gerg_9358> check this one out
+[21:39:29] [Server thread/INFO]: <gerg_9358> it makes the beacon change colors
+[21:39:40] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:39:40] [Server thread/INFO]: <gerg_9358> (look up)
+[21:40:05] [Server thread/INFO]: <gerg_9358> had to turn it on; it's activated by daylight normally
+[21:40:22] [Server thread/INFO]: <jwhite69> how do you detect light?
+[21:40:28] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:40:34] [Server thread/INFO]: <gerg_9358> there's a daylight sensor block
+[21:40:41] [Server thread/INFO]: <gerg_9358> it puts out redstone current when sunlight hits it
+[21:40:50] [Server thread/INFO]: <gerg_9358> ah, there's the hatch
+[21:41:01] [Server thread/INFO]: <gerg_9358> so you get this outside
+[21:41:18] [Server thread/INFO]: <gerg_9358> spaaaaaaace
+[21:41:24] [Server thread/INFO]: <jwhite69> teaaaaaaaaaaaam
+[21:41:25] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:41:34] [Server thread/INFO]: <jwhite69> space elevator?
+[21:41:42] [Server thread/INFO]: <gerg_9358> nope, just a beam of light
+[21:41:47] [Server thread/INFO]: <gerg_9358> but it changes colors XD
+[21:42:13] [Server thread/INFO]: <jwhite69> doesn't the entrace change color too?
+[21:42:15] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:42:18] [Server thread/INFO]: <jwhite69> where do we control that?
+[21:42:18] [Server thread/INFO]: <gerg_9358> well
+[21:42:24] [Server thread/INFO]: <gerg_9358> go up inside the ceiling
+[21:42:31] [Server thread/INFO]: <gerg_9358> it's the colored glass that does it
+[21:42:55] [Server thread/INFO]: <gerg_9358> I thought about building this under the floor but I wasn't sure if Kim wanted to put stuff there
+[21:43:04] [Server thread/INFO]: <gerg_9358> ah!
+[21:43:05] [Server thread/INFO]: <jwhite69> damn, ben and kim built unit tests?
+[21:43:14] [Server thread/INFO]: <gerg_9358> hehehe
+[21:43:21] [Server thread/INFO]: <gerg_9358> forgot i built this
+[21:43:45] [Server thread/INFO]: <gerg_9358> Used one of the clock phases for lights XD
+[21:44:16] [Server thread/INFO]: <gerg_9358> I could totally build a bigger one
+[21:44:21] [Server thread/INFO]: <gerg_9358> just wanted to test out the idea
+[21:44:27] [Server thread/INFO]: <gerg_9358> It needs a piston-based door to seal out the light
+[21:44:52] [Server thread/INFO]: <gerg_9358> there are a few of these 4-phase clock devices around
+[21:45:05] [Server thread/INFO]: <gerg_9358> There's a lighthouse, a clock, and a self-building house
+[21:45:12] [Server thread/INFO]: <jwhite69> what does this button do?
+[21:45:22] [Server thread/INFO]: <gerg_9358> advances it by one color
+[21:45:29] [Server thread/INFO]: <gerg_9358> there's a button topside
+[21:45:39] [Server thread/INFO]: <gerg_9358> so it's controllable during the day and changes color at night XD
+[21:45:59] [Server thread/INFO]: <gerg_9358> er
+[21:45:59] [Server thread/INFO]: <gerg_9358> hm
+[21:46:21] [Server thread/INFO]: <gerg_9358> yay
+[21:46:37] [Server thread/INFO]: <jwhite69> oops
+[21:46:38] [Server thread/INFO]: <gerg_9358> lol!
+[21:46:58] [Server thread/INFO]: <jwhite69> DP?
+[21:46:59] [Server thread/INFO]: <gerg_9358> you can also toggle the sensor (it's a switch)
+[21:47:03] [Server thread/INFO]: <gerg_9358> lol
+[21:47:05] [Server thread/INFO]: <gerg_9358> Disco Palace
+[21:47:08] [Server thread/INFO]: <gerg_9358> of course
+[21:47:11] [Server thread/INFO]: <gerg_9358> what else would it be
+[21:47:38] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:48:01] [Server thread/INFO]: <gerg_9358> That's the palace : D
+[21:48:25] [Server thread/INFO]: <gerg_9358> the glowstone towers are the route home; the tunnel roughly follows them underground
+[21:48:28] [Server thread/INFO]: <jwhite69> whoa this is even cooler at night!!
+[21:48:39] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:48:42] [Server thread/INFO]: <gerg_9358> oh yeah
+[21:49:17] [Server thread/INFO]: <gerg_9358> If you hit Esc then click Options and click Super Secret Settings, things will happen
+[21:49:28] [Server thread/INFO]: <gerg_9358> you have to close & reopen the game to turn 'em off
+[21:49:44] [Server thread/INFO]: <gerg_9358> But sometimes you get the sweet color-cycling one we got yesterday, and this place looks crazy
+[21:49:50] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:49:57] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:49:57] [Server thread/INFO]: gerg_9358 left the game
+[21:50:01] [User Authenticator #48/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[21:50:01] [Server thread/INFO]: gerg_9358[/50.147.49.115:49919] logged in with entity id 3184885 at (-719.9630778524638, 66.0, -750.8462919552918)
+[21:50:01] [Server thread/INFO]: gerg_9358 joined the game
+[21:50:38] [Server thread/INFO]: <gerg_9358> oh maybe it is deterministic; it was 10 or 15 clicks for me I think
+[21:50:46] [Server thread/INFO]: <gerg_9358> I thought it was random
+[21:51:12] [Server thread/INFO]: <jwhite69> so what have you and Ashly been building?
+[21:51:17] [Server thread/INFO]: <gerg_9358> ah
+[21:51:25] [Server thread/INFO]: <gerg_9358> we should head to her castle
+[21:51:36] [Server thread/INFO]: <gerg_9358> um, be right back, my game is tripping balls
+[21:51:38] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:51:38] [Server thread/INFO]: gerg_9358 left the game
+[21:51:41] [User Authenticator #49/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[21:51:41] [Server thread/INFO]: gerg_9358[/50.147.49.115:49922] logged in with entity id 3187080 at (-704.2528054346429, 57.200000047683716, -679.7848297347668)
+[21:51:41] [Server thread/INFO]: gerg_9358 joined the game
+[21:51:43] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:51:43] [Server thread/INFO]: gerg_9358 left the game
+[21:51:58] [User Authenticator #50/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[21:51:58] [Server thread/INFO]: gerg_9358[/50.147.49.115:49971] logged in with entity id 3187282 at (-704.2528054346429, 57.200000047683716, -679.7848297347668)
+[21:51:58] [Server thread/INFO]: gerg_9358 joined the game
+[21:52:01] [Server thread/INFO]: <gerg_9358> yay
+[21:52:27] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:52:35] [Server thread/INFO]: <gerg_9358> ah, this way
+[21:52:49] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:52:53] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:53:34] [Server thread/INFO]: <gerg_9358> lol this might work
+[21:53:38] [Server thread/INFO]: <gerg_9358> yay!
+[21:53:42] [Server thread/INFO]: <jwhite69> we have a train!
+[21:53:50] [Server thread/INFO]: <gerg_9358> lol warm up the 'cano!
+[21:54:16] [Server thread/INFO]: <gerg_9358> I'll show you the main station, Kim's tree, then the castle we've been working on
+[21:54:24] [Server thread/INFO]: <gerg_9358> The first two don't require leaving the minecart : D
+[21:55:27] [Server thread/INFO]: <gerg_9358> Man, i forget how old this world is; we've been playing in it for a couple years now
+[21:55:47] [Server thread/INFO]: <gerg_9358> (old for a minecraft world at least)
+[21:56:15] [Server thread/INFO]: <gerg_9358> ah did you catch the underwater tunnel?
+[21:56:59] [Server thread/INFO]: <gerg_9358> I'm comin' in!
+[21:57:03] [Server thread/INFO]: [jwhite69: Teleported jwhite69 to gerg_9358]
+[21:57:14] [Server thread/INFO]: <gerg_9358> oh
+[21:57:19] [Server thread/INFO]: <gerg_9358> yeah, hop in
+[21:57:28] [Server thread/INFO]: <jwhite69> Ashly's castle?
+[21:57:35] [Server thread/INFO]: <gerg_9358> well
+[21:57:38] [Server thread/INFO]: <gerg_9358> a quick detour first
+[21:57:41] [Server thread/INFO]: <gerg_9358> the main train station
+[21:57:58] [Server thread/INFO]: <gerg_9358> ruh roh!
+[21:58:03] [Server thread/INFO]: <jwhite69> hmm got stuck
+[21:58:05] [Server thread/INFO]: <gerg_9358> not all the stations like multiple riders, hrm
+[21:58:07] [Server thread/INFO]: <jwhite69> just a sec
+[21:58:18] [Server thread/INFO]: <gerg_9358> hard to test that use case XD
+[21:58:44] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:58:48] [Server thread/INFO]: <jwhite69> on the way
+[21:59:14] [Server thread/INFO]: <gerg_9358> lighthouse & clock on the right
+[21:59:25] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to jwhite69]
+[21:59:41] [Server thread/INFO]: <gerg_9358> and this is the main station
+[21:59:41] [Server thread/INFO]: <jwhite69> Vol colors?
+[21:59:44] [Server thread/INFO]: <gerg_9358> hehehe
+[21:59:52] [Server thread/INFO]: <gerg_9358> mebbe
+[21:59:56] [Server thread/INFO]: <jwhite69> where to?
