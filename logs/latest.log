@@ -45,3 +45,5 @@
 [05:14:29] [Server thread/INFO]: gerg_9358 joined the game
 [05:15:10] [Server thread/INFO]: <gerg_9358> M
 [05:15:53] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
+[07:06:56] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:06:56] [Server thread/INFO]: gerg_9358 left the game
