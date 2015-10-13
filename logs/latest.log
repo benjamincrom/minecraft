@@ -1,20 +1,3 @@
-[00:15:13] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:15:13] [Server thread/INFO]: treeling left the game
-[00:28:02] [User Authenticator #53/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[00:28:02] [Server thread/INFO]: treeling[/166.170.59.203:37366] logged in with entity id 3419547 at (-684.6017400401084, 63.0, -770.884655600424)
-[00:28:02] [Server thread/INFO]: treeling joined the game
-[01:02:37] [User Authenticator #54/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[01:02:37] [Server thread/INFO]: gerg_9358[/50.147.49.115:51140] logged in with entity id 3446854 at (19.687548934488444, 105.09271756987837, 213.48912417061976)
-[01:02:37] [Server thread/INFO]: gerg_9358 joined the game
-[01:13:53] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:13:53] [Server thread/INFO]: gerg_9358 left the game
-[01:59:43] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:59:43] [Server thread/INFO]: treeling left the game
-[02:53:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@53bdd0f0[id=<null>,name=treeling,properties={},legacy=false] (/166.170.59.203:39878) lost connection: Disconnected
-[02:54:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@214d0798[id=<null>,name=treeling,properties={},legacy=false] (/166.170.59.203:20391) lost connection: Disconnected
-[02:54:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@2371ea3[id=<null>,name=treeling,properties={},legacy=false] (/166.170.59.203:3231) lost connection: Disconnected
-[02:55:22] [User Authenticator #55/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[02:55:22] [Server thread/INFO]: treeling[/166.170.59.203:8918] logged in with entity id 3526675 at (-684.5172686979439, 63.0, -675.4496890746195)
-[02:55:22] [Server thread/INFO]: treeling joined the game
-[03:55:58] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:55:58] [Server thread/INFO]: treeling left the game
+[05:11:20] [User Authenticator #56/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
+[05:11:20] [Server thread/INFO]: treeling[/70.193.181.94:11212] logged in with entity id 3593768 at (-690.9837441220841, 44.7695087252384, -685.2468888377268)
+[05:11:20] [Server thread/INFO]: treeling joined the game
