@@ -10,3 +10,6 @@
 [20:34:01] [Server thread/INFO]: [treeling: Set the time to 0]
 [20:45:32] [Server thread/INFO]: [treeling: Set the time to 0]
 [20:55:43] [Server thread/INFO]: [treeling: Set the time to 0]
+[21:08:35] [Server thread/INFO]: [treeling: Set the time to 0]
+[21:09:33] [Server thread/INFO]: treeling lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:09:33] [Server thread/INFO]: treeling left the game
