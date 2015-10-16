@@ -13,3 +13,15 @@
 [21:08:35] [Server thread/INFO]: [treeling: Set the time to 0]
 [21:09:33] [Server thread/INFO]: treeling lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [21:09:33] [Server thread/INFO]: treeling left the game
+[23:07:29] [User Authenticator #65/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[23:07:29] [Server thread/INFO]: gerg_9358[/50.147.49.115:59013] logged in with entity id 4638426 at (-660.6778500822127, 107.77848696488691, -708.3373494927266)
+[23:07:29] [Server thread/INFO]: gerg_9358 joined the game
+[23:08:12] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 64 to gerg_9358]
+[23:08:20] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 64 to gerg_9358]
+[23:11:07] [Server thread/INFO]: <gerg_9358> yarrrg
+[23:11:29] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:11:29] [Server thread/INFO]: gerg_9358 left the game
+[23:25:17] [User Authenticator #66/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[23:25:17] [Server thread/INFO]: gerg_9358[/50.147.49.115:59360] logged in with entity id 4649389 at (-671.7652079338698, 82.85218561954683, -737.9020767938069)
+[23:25:17] [Server thread/INFO]: gerg_9358 joined the game
+[23:39:44] [Server thread/INFO]: [gerg_9358: Set the time to 0]
