@@ -15,3 +15,6 @@
 [16:32:06] [Server thread/INFO]: [treeling: Set the time to 0]
 [16:36:30] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [16:36:30] [Server thread/INFO]: treeling left the game
+[17:20:57] [User Authenticator #69/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[17:20:57] [Server thread/INFO]: Buckner7882[/69.129.19.69:63575] logged in with entity id 4776289 at (-128.0021851815132, 79.0, -406.2414088911491)
+[17:20:57] [Server thread/INFO]: Buckner7882 joined the game
