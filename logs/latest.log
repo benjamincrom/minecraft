@@ -26,3 +26,22 @@
 [20:57:49] [Server thread/INFO]: gerg_9358 fell out of the world
 [20:58:43] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to -118.5, 73.0, -394.5]
 [20:59:07] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to -118.5, 73.0, -394.5]
+[21:05:40] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 33.5, 56.0, -100.5]
+[21:10:20] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:10:29] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:10:43] [Server thread/INFO]: gerg_9358 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:10:43] [Server thread/INFO]: gerg_9358 left the game
+[21:10:59] [User Authenticator #71/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[21:10:59] [Server thread/INFO]: gerg_9358[/50.147.49.115:65494] logged in with entity id 5102362 at (24.925938690956897, 94.49473461078365, 209.75884934765372)
+[21:10:59] [Server thread/INFO]: gerg_9358 joined the game
+[21:11:45] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:13:44] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:13:45] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:13:46] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:14:53] [Server thread/INFO]: [gerg_9358: Given [Firework Rocket] * 64 to gerg_9358]
+[21:24:34] [Server thread/INFO]: [gerg_9358: Set the time to 0]
+[21:35:15] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:35:15] [Server thread/INFO]: gerg_9358 left the game
+[21:56:23] [User Authenticator #72/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[21:56:23] [Server thread/INFO]: Buckner7882[/69.129.19.69:64120] logged in with entity id 5142921 at (-124.35490508023543, 80.0, -402.657360449335)
+[21:56:23] [Server thread/INFO]: Buckner7882 joined the game
