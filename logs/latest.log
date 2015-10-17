@@ -20,3 +20,9 @@
 [17:20:57] [Server thread/INFO]: Buckner7882 joined the game
 [18:46:06] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [18:46:06] [Server thread/INFO]: Buckner7882 left the game
+[20:24:29] [User Authenticator #70/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[20:24:29] [Server thread/INFO]: gerg_9358[/50.147.49.115:64847] logged in with entity id 4883274 at (-115.92500001192093, 51.200000047683716, -32.658436541708745)
+[20:24:29] [Server thread/INFO]: gerg_9358 joined the game
+[20:57:49] [Server thread/INFO]: gerg_9358 fell out of the world
+[20:58:43] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to -118.5, 73.0, -394.5]
+[20:59:07] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to -118.5, 73.0, -394.5]
