@@ -301,3 +301,12 @@
 [16:57:48] [Server thread/INFO]: [treeling: Set the time to 0]
 [16:59:30] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [16:59:30] [Server thread/INFO]: treeling left the game
+[17:00:09] [User Authenticator #80/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
+[17:00:09] [Server thread/INFO]: treeling[/70.193.101.24:7952] logged in with entity id 5781946 at (149.630183696015, 67.74478903619145, 405.15470706751375)
+[17:00:09] [Server thread/INFO]: treeling joined the game
+[17:08:29] [Server thread/INFO]: [treeling: Set the time to 0]
+[17:28:39] [User Authenticator #81/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[17:28:39] [Server thread/INFO]: gerg_9358[/50.147.49.115:54255] logged in with entity id 5793523 at (46.483860199797434, 88.86056675062626, 209.04266000290218)
+[17:28:39] [Server thread/INFO]: gerg_9358 joined the game
+[17:28:49] [Server thread/INFO]: <treeling> hello!
+[17:28:52] [Server thread/INFO]: <gerg_9358> hey!
