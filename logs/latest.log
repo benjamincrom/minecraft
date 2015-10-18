@@ -3,3 +3,109 @@
 [01:56:22] [User Authenticator #75/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
 [01:56:22] [Server thread/INFO]: Buckner7882[/69.129.19.69:65251] logged in with entity id 5356784 at (-18.69999998807909, 63.0, -414.84102134574744)
 [01:56:22] [Server thread/INFO]: Buckner7882 joined the game
+[02:04:09] [User Authenticator #76/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[02:04:09] [Server thread/INFO]: gerg_9358[/50.147.49.115:50498] logged in with entity id 5376928 at (68.94733222380952, 59.200000047683716, -307.69532807031646)
+[02:04:09] [Server thread/INFO]: gerg_9358 joined the game
+[02:04:58] [Server thread/INFO]: <Buckner7882> evening
+[02:05:07] [Server thread/INFO]: <gerg_9358> hey!
+[02:05:23] [Server thread/INFO]: <Buckner7882> How are you feeling?
+[02:05:44] [Server thread/INFO]: <gerg_9358> not too bad; they've gotten to the itching stage
+[02:05:54] [Server thread/INFO]: <Buckner7882> itching is good.
+[02:05:57] [Server thread/INFO]: <gerg_9358> yep
+[02:06:26] [Server thread/INFO]: <gerg_9358> I'm still waiting for the leg to heal up enough that it doesn't throb if it's not elevated
+[02:06:29] [Server thread/INFO]: <gerg_9358> it's getting there though
+[02:07:02] [Server thread/INFO]: <Buckner7882> I know all about that. I took a nasty spill riding my bike one time.
+[02:07:24] [Server thread/INFO]: <Buckner7882> how do you change it to daytime?
+[02:07:26] [Server thread/INFO]: <gerg_9358> I wrecked a few times but never going as fast
+[02:07:33] [Server thread/INFO]: <gerg_9358> ah, type this: /time set 0
+[02:07:44] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[02:07:56] [Server thread/INFO]: <Buckner7882> YAY
+[02:08:03] [Server thread/INFO]: <gerg_9358> lol handy ain't it!
+[02:08:12] [Server thread/INFO]: <Buckner7882> very!!!!
+[02:18:44] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[02:18:50] [Server thread/INFO]: <gerg_9358> loool
+[02:19:01] [Server thread/INFO]: <gerg_9358> I'm underground so I'm just seeing that message every now and then
+[02:19:24] [Server thread/INFO]: <Buckner7882> how do you get the rain to stop
+[02:19:32] [Server thread/INFO]: <gerg_9358> ah: ... gimme a sec
+[02:19:37] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
+[02:19:46] [Server thread/INFO]: <gerg_9358> k, this: /weather clear 3600
+[02:19:54] [Server thread/INFO]: <gerg_9358> the number is the # of seconds to apply that setting for
+[02:20:28] [Server thread/INFO]: <Buckner7882> hope I can remember that
+[02:20:32] [Server thread/INFO]: <gerg_9358> So that'll do it for an hour (60 seconds * 60 minutes = 3600 seconds)
+[02:20:45] [Server thread/INFO]: <Buckner7882> ok
+[02:20:48] [Server thread/INFO]: <gerg_9358> post it note : D
+[02:31:02] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[02:32:41] [Server thread/INFO]: <Buckner7882> when you get a chance come see if this boat is any better. Please
+[02:33:22] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to Buckner7882]
+[02:33:32] [Server thread/INFO]: <gerg_9358> oooh!
+[02:33:38] [Server thread/INFO]: <gerg_9358> nice
+[02:33:52] [Server thread/INFO]: <Buckner7882> it's a bit better
+[02:33:57] [Server thread/INFO]: <gerg_9358> I tried to fix it a couple hours ago but it didn't look much better so I redid it
+[02:34:03] [Server thread/INFO]: <gerg_9358> that looks great
+[02:34:15] [Server thread/INFO]: <gerg_9358> ah nice, you didn't lose any cannons either
+[02:34:22] [Server thread/INFO]: <gerg_9358> I knocked one out when I tried it
+[02:34:29] [Server thread/INFO]: <Buckner7882> nope.
+[02:34:42] [Server thread/INFO]: <Buckner7882> i just took down the very front of it and redid it
+[02:34:56] [Server thread/INFO]: <gerg_9358> ooo did you change the back as weel?
+[02:35:00] [Server thread/INFO]: <gerg_9358> lol *well
+[02:35:08] [Server thread/INFO]: <Buckner7882> yes.
+[02:35:22] [Server thread/INFO]: <Buckner7882> it's less boxy but I don't know if i like it
+[02:36:00] [Server thread/INFO]: <gerg_9358> i do
+[02:36:10] [Server thread/INFO]: <gerg_9358> hmmmm, trying to find a decent-looking ship wheel design...
+[02:36:56] [Server thread/INFO]: <Buckner7882> hmm
+[02:37:43] [Server thread/INFO]: <gerg_9358> hrm
+[02:40:01] [Server thread/INFO]: <Buckner7882> hey i found waldo!!!
+[02:40:10] [Server thread/INFO]: <gerg_9358> lol waldo?
+[02:40:19] [Server thread/INFO]: <Buckner7882> your skim looks like waldo
+[02:40:24] [Server thread/INFO]: <Buckner7882> skin
+[02:40:36] [Server thread/INFO]: <gerg_9358> didn't know I had one!
+[02:40:44] [Server thread/INFO]: <gerg_9358> hm, more of a control panel than a wheel
+[02:41:08] [Server thread/INFO]: <Buckner7882> well it is a big boat
+[02:41:16] [Server thread/INFO]: <gerg_9358> haha, true
+[02:41:19] [Server thread/INFO]: <gerg_9358> humm....
+[02:41:41] [Server thread/INFO]: <gerg_9358> I wonder if a button for the cannons would fit without being too ugly...
+[02:41:52] [Server thread/INFO]: <Buckner7882> fit where?
+[02:41:59] [Server thread/INFO]: <gerg_9358> somewhere near the helm...
+[02:42:37] [Server thread/INFO]: <Buckner7882> there?
+[02:42:43] [Server thread/INFO]: <gerg_9358> hmm
+[02:43:31] [Server thread/INFO]: <Buckner7882> oh I have a texture pakc on. That's why you look like Waldo
+[02:43:37] [Server thread/INFO]: <gerg_9358> ahhhh!!
+[02:43:44] [Server thread/INFO]: <gerg_9358> lol good
+[02:44:25] [Server thread/INFO]: <gerg_9358> how to get that pulse to the cannon wire...
+[02:44:41] [Server thread/INFO]: <gerg_9358> (without making a mess...)
+[02:45:26] [Server thread/INFO]: <Buckner7882> just sent a screen shot to your email.
+[02:45:43] [Server thread/INFO]: <Buckner7882> down below the way I have it is a mess too
+[02:46:07] [Server thread/INFO]: <gerg_9358> it is hidden though XD
+[02:46:17] [Server thread/INFO]: <gerg_9358> lol those are awesome
+[02:47:25] [Server thread/INFO]: <gerg_9358> hey, that works
+[02:48:01] [Server thread/INFO]: <gerg_9358> there we go
+[02:49:01] [Server thread/INFO]: [gerg_9358: Set the time to 0]
+[02:49:14] [Server thread/INFO]: <gerg_9358> A fine ship
+[02:49:53] [Server thread/INFO]: <gerg_9358> lol that torch is a problem
+[02:50:02] [Server thread/INFO]: <gerg_9358> it kinda makes it all work though
+[02:50:07] [Server thread/INFO]: <Buckner7882> that's what i was thinking
+[02:50:31] [Server thread/INFO]: <gerg_9358> hmm
+[02:51:14] [Server thread/INFO]: <gerg_9358> LOL
+[02:51:15] [Server thread/INFO]: <gerg_9358> oops
+[02:51:21] [Server thread/INFO]: <gerg_9358> that made a bit of a redstone clock
+[02:51:32] [Server thread/INFO]: <Buckner7882> digging the fireworks!
+[02:51:44] [Server thread/INFO]: <gerg_9358> it's only supposed to fire once but there's a feedback loop
+[02:51:49] [Server thread/INFO]: <gerg_9358> It's kinda cool though lol
+[02:51:56] [Server thread/INFO]: <gerg_9358> watch it
+[02:52:02] [Server thread/INFO]: <Buckner7882> r
+[02:52:09] [Server thread/INFO]: <gerg_9358> LOL the sound is awesome
+[02:52:25] [Server thread/INFO]: <Buckner7882> i'm gonna need more fireworks
+[02:52:28] [Server thread/INFO]: <gerg_9358> ahhh!! they can set trees on fire
+[02:52:32] [Server thread/INFO]: <gerg_9358> indeed, hmm..
+[02:52:46] [Server thread/INFO]: <Buckner7882> no the middle is fire charge
+[02:53:03] [Server thread/INFO]: <Buckner7882> middle despenser. the fireworks shot into the sail
+[02:57:47] [Server thread/INFO]: <gerg_9358> ahh!
+[02:58:24] [Server thread/INFO]: <Buckner7882> come push the button
+[02:59:03] [Server thread/INFO]: <gerg_9358> ready...
+[02:59:16] [Server thread/INFO]: <gerg_9358> ahh!!
+[02:59:21] [Server thread/INFO]: <gerg_9358> it's a self-contained fireworks show : D
+[02:59:24] [Server thread/INFO]: <Buckner7882> this redstone isn't fireing
+[02:59:27] [Server thread/INFO]: <gerg_9358> ?
+[02:59:37] [Server thread/INFO]: <Buckner7882> at the front of the ship
+[02:59:42] [Server thread/INFO]: <gerg_9358> oooh
+[02:59:56] [Server thread/INFO]: <Buckner7882> it does with the lever.....
