@@ -1,318 +1,103 @@
-[00:59:59] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:59:59] [Server thread/INFO]: gerg_9358 left the game
-[01:56:22] [User Authenticator #75/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[01:56:22] [Server thread/INFO]: Buckner7882[/69.129.19.69:65251] logged in with entity id 5356784 at (-18.69999998807909, 63.0, -414.84102134574744)
-[01:56:22] [Server thread/INFO]: Buckner7882 joined the game
-[02:04:09] [User Authenticator #76/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[02:04:09] [Server thread/INFO]: gerg_9358[/50.147.49.115:50498] logged in with entity id 5376928 at (68.94733222380952, 59.200000047683716, -307.69532807031646)
-[02:04:09] [Server thread/INFO]: gerg_9358 joined the game
-[02:04:58] [Server thread/INFO]: <Buckner7882> evening
-[02:05:07] [Server thread/INFO]: <gerg_9358> hey!
-[02:05:23] [Server thread/INFO]: <Buckner7882> How are you feeling?
-[02:05:44] [Server thread/INFO]: <gerg_9358> not too bad; they've gotten to the itching stage
-[02:05:54] [Server thread/INFO]: <Buckner7882> itching is good.
-[02:05:57] [Server thread/INFO]: <gerg_9358> yep
-[02:06:26] [Server thread/INFO]: <gerg_9358> I'm still waiting for the leg to heal up enough that it doesn't throb if it's not elevated
-[02:06:29] [Server thread/INFO]: <gerg_9358> it's getting there though
-[02:07:02] [Server thread/INFO]: <Buckner7882> I know all about that. I took a nasty spill riding my bike one time.
-[02:07:24] [Server thread/INFO]: <Buckner7882> how do you change it to daytime?
-[02:07:26] [Server thread/INFO]: <gerg_9358> I wrecked a few times but never going as fast
-[02:07:33] [Server thread/INFO]: <gerg_9358> ah, type this: /time set 0
-[02:07:44] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[02:07:56] [Server thread/INFO]: <Buckner7882> YAY
-[02:08:03] [Server thread/INFO]: <gerg_9358> lol handy ain't it!
-[02:08:12] [Server thread/INFO]: <Buckner7882> very!!!!
-[02:18:44] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[02:18:50] [Server thread/INFO]: <gerg_9358> loool
-[02:19:01] [Server thread/INFO]: <gerg_9358> I'm underground so I'm just seeing that message every now and then
-[02:19:24] [Server thread/INFO]: <Buckner7882> how do you get the rain to stop
-[02:19:32] [Server thread/INFO]: <gerg_9358> ah: ... gimme a sec
-[02:19:37] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
-[02:19:46] [Server thread/INFO]: <gerg_9358> k, this: /weather clear 3600
-[02:19:54] [Server thread/INFO]: <gerg_9358> the number is the # of seconds to apply that setting for
-[02:20:28] [Server thread/INFO]: <Buckner7882> hope I can remember that
-[02:20:32] [Server thread/INFO]: <gerg_9358> So that'll do it for an hour (60 seconds * 60 minutes = 3600 seconds)
-[02:20:45] [Server thread/INFO]: <Buckner7882> ok
-[02:20:48] [Server thread/INFO]: <gerg_9358> post it note : D
-[02:31:02] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[02:32:41] [Server thread/INFO]: <Buckner7882> when you get a chance come see if this boat is any better. Please
-[02:33:22] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to Buckner7882]
-[02:33:32] [Server thread/INFO]: <gerg_9358> oooh!
-[02:33:38] [Server thread/INFO]: <gerg_9358> nice
-[02:33:52] [Server thread/INFO]: <Buckner7882> it's a bit better
-[02:33:57] [Server thread/INFO]: <gerg_9358> I tried to fix it a couple hours ago but it didn't look much better so I redid it
-[02:34:03] [Server thread/INFO]: <gerg_9358> that looks great
-[02:34:15] [Server thread/INFO]: <gerg_9358> ah nice, you didn't lose any cannons either
-[02:34:22] [Server thread/INFO]: <gerg_9358> I knocked one out when I tried it
-[02:34:29] [Server thread/INFO]: <Buckner7882> nope.
-[02:34:42] [Server thread/INFO]: <Buckner7882> i just took down the very front of it and redid it
-[02:34:56] [Server thread/INFO]: <gerg_9358> ooo did you change the back as weel?
-[02:35:00] [Server thread/INFO]: <gerg_9358> lol *well
-[02:35:08] [Server thread/INFO]: <Buckner7882> yes.
-[02:35:22] [Server thread/INFO]: <Buckner7882> it's less boxy but I don't know if i like it
-[02:36:00] [Server thread/INFO]: <gerg_9358> i do
-[02:36:10] [Server thread/INFO]: <gerg_9358> hmmmm, trying to find a decent-looking ship wheel design...
-[02:36:56] [Server thread/INFO]: <Buckner7882> hmm
-[02:37:43] [Server thread/INFO]: <gerg_9358> hrm
-[02:40:01] [Server thread/INFO]: <Buckner7882> hey i found waldo!!!
-[02:40:10] [Server thread/INFO]: <gerg_9358> lol waldo?
-[02:40:19] [Server thread/INFO]: <Buckner7882> your skim looks like waldo
-[02:40:24] [Server thread/INFO]: <Buckner7882> skin
-[02:40:36] [Server thread/INFO]: <gerg_9358> didn't know I had one!
-[02:40:44] [Server thread/INFO]: <gerg_9358> hm, more of a control panel than a wheel
-[02:41:08] [Server thread/INFO]: <Buckner7882> well it is a big boat
-[02:41:16] [Server thread/INFO]: <gerg_9358> haha, true
-[02:41:19] [Server thread/INFO]: <gerg_9358> humm....
-[02:41:41] [Server thread/INFO]: <gerg_9358> I wonder if a button for the cannons would fit without being too ugly...
-[02:41:52] [Server thread/INFO]: <Buckner7882> fit where?
-[02:41:59] [Server thread/INFO]: <gerg_9358> somewhere near the helm...
-[02:42:37] [Server thread/INFO]: <Buckner7882> there?
-[02:42:43] [Server thread/INFO]: <gerg_9358> hmm
-[02:43:31] [Server thread/INFO]: <Buckner7882> oh I have a texture pakc on. That's why you look like Waldo
-[02:43:37] [Server thread/INFO]: <gerg_9358> ahhhh!!
-[02:43:44] [Server thread/INFO]: <gerg_9358> lol good
-[02:44:25] [Server thread/INFO]: <gerg_9358> how to get that pulse to the cannon wire...
-[02:44:41] [Server thread/INFO]: <gerg_9358> (without making a mess...)
-[02:45:26] [Server thread/INFO]: <Buckner7882> just sent a screen shot to your email.
-[02:45:43] [Server thread/INFO]: <Buckner7882> down below the way I have it is a mess too
-[02:46:07] [Server thread/INFO]: <gerg_9358> it is hidden though XD
-[02:46:17] [Server thread/INFO]: <gerg_9358> lol those are awesome
-[02:47:25] [Server thread/INFO]: <gerg_9358> hey, that works
-[02:48:01] [Server thread/INFO]: <gerg_9358> there we go
-[02:49:01] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[02:49:14] [Server thread/INFO]: <gerg_9358> A fine ship
-[02:49:53] [Server thread/INFO]: <gerg_9358> lol that torch is a problem
-[02:50:02] [Server thread/INFO]: <gerg_9358> it kinda makes it all work though
-[02:50:07] [Server thread/INFO]: <Buckner7882> that's what i was thinking
-[02:50:31] [Server thread/INFO]: <gerg_9358> hmm
-[02:51:14] [Server thread/INFO]: <gerg_9358> LOL
-[02:51:15] [Server thread/INFO]: <gerg_9358> oops
-[02:51:21] [Server thread/INFO]: <gerg_9358> that made a bit of a redstone clock
-[02:51:32] [Server thread/INFO]: <Buckner7882> digging the fireworks!
-[02:51:44] [Server thread/INFO]: <gerg_9358> it's only supposed to fire once but there's a feedback loop
-[02:51:49] [Server thread/INFO]: <gerg_9358> It's kinda cool though lol
-[02:51:56] [Server thread/INFO]: <gerg_9358> watch it
-[02:52:02] [Server thread/INFO]: <Buckner7882> r
-[02:52:09] [Server thread/INFO]: <gerg_9358> LOL the sound is awesome
-[02:52:25] [Server thread/INFO]: <Buckner7882> i'm gonna need more fireworks
-[02:52:28] [Server thread/INFO]: <gerg_9358> ahhh!! they can set trees on fire
-[02:52:32] [Server thread/INFO]: <gerg_9358> indeed, hmm..
-[02:52:46] [Server thread/INFO]: <Buckner7882> no the middle is fire charge
-[02:53:03] [Server thread/INFO]: <Buckner7882> middle despenser. the fireworks shot into the sail
-[02:57:47] [Server thread/INFO]: <gerg_9358> ahh!
-[02:58:24] [Server thread/INFO]: <Buckner7882> come push the button
-[02:59:03] [Server thread/INFO]: <gerg_9358> ready...
-[02:59:16] [Server thread/INFO]: <gerg_9358> ahh!!
-[02:59:21] [Server thread/INFO]: <gerg_9358> it's a self-contained fireworks show : D
-[02:59:24] [Server thread/INFO]: <Buckner7882> this redstone isn't fireing
-[02:59:27] [Server thread/INFO]: <gerg_9358> ?
-[02:59:37] [Server thread/INFO]: <Buckner7882> at the front of the ship
-[02:59:42] [Server thread/INFO]: <gerg_9358> oooh
-[02:59:56] [Server thread/INFO]: <Buckner7882> it does with the lever.....
-[03:00:03] [Server thread/INFO]: <gerg_9358> it's closer
-[03:00:10] [Server thread/INFO]: <gerg_9358> I bet the signal is dying out befire it gets there
-[03:00:21] [Server thread/INFO]: <gerg_9358> ahhhHHH
-[03:00:27] [Server thread/INFO]: <gerg_9358> well hm
-[03:00:34] [Server thread/INFO]: <Buckner7882> well i missed if it fired
-[03:00:38] [Server thread/INFO]: <gerg_9358> lol you pus the button while i stand down there
-[03:00:45] [Server thread/INFO]: <gerg_9358> *push!
-[03:01:09] [Server thread/INFO]: <gerg_9358> try it now
-[03:01:17] [Server thread/INFO]: <gerg_9358> did they all go?
-[03:01:23] [Server thread/INFO]: <gerg_9358> I added a couple repeaters
-[03:01:24] [Server thread/INFO]: <gerg_9358> oh yeah
-[03:01:45] [Server thread/INFO]: <Buckner7882> ok i saw one creeper blow
-[03:04:29] [Server thread/INFO]: <Buckner7882> which are you trying to make?
-[03:04:35] [Server thread/INFO]: <gerg_9358> a few of both
-[03:04:45] [Server thread/INFO]: <gerg_9358> I made 'em twinkly with glowstone dust
-[03:04:47] [Server thread/INFO]: <Buckner7882> of the ones I made
-[03:05:12] [Server thread/INFO]: <gerg_9358> ahhh! where did I get creeper-shaped ones
-[03:05:49] [Server thread/INFO]: <gerg_9358> neat!
-[03:05:57] [Server thread/INFO]: <gerg_9358> fly up & i'll shoot it
-[03:06:08] [Server thread/INFO]: <Buckner7882> did you get them from the boat despenser?
-[03:06:10] [Server thread/INFO]: <gerg_9358> hard to see from the ground
-[03:06:17] [Server thread/INFO]: <gerg_9358> I don't think I took anything out of those
-[03:06:23] [Server thread/INFO]: <Buckner7882> ok ready
-[03:06:43] [Server thread/INFO]: <gerg_9358> you mix in creature heads with the stars I think
-[03:07:08] [Server thread/INFO]: <Buckner7882> when you make the firework you put the head in
-[03:07:09] [Server thread/INFO]: <gerg_9358> oooo the twinkle is pretty
-[03:07:16] [Server thread/INFO]: <gerg_9358> ahh
-[03:08:02] [Server thread/INFO]: <gerg_9358> ah shoot I made my white ones light gray
-[03:10:52] [Server thread/INFO]: <Buckner7882> i made one for you
-[03:11:08] [Server thread/INFO]: <gerg_9358> hmm?
-[03:11:09] [Server thread/INFO]: <Buckner7882> should be in your inventory
-[03:11:25] [Server thread/INFO]: <gerg_9358> ahh
-[03:11:40] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[03:11:52] [Server thread/INFO]: <gerg_9358> I hear it but i don't see it
-[03:12:36] [Server thread/INFO]: <gerg_9358> try it in there
-[03:12:38] [Server thread/INFO]: <Buckner7882> is one in your inventory?
-[03:12:44] [Server thread/INFO]: <gerg_9358> yeah, a creeper one
-[03:12:57] [Server thread/INFO]: <Buckner7882> there it is
-[03:13:01] [Server thread/INFO]: <gerg_9358> ahh!
-[03:13:04] [Server thread/INFO]: <gerg_9358> purdy purple creeper
-[03:13:08] [Server thread/INFO]: <gerg_9358> kinda reminds me of someone
-[03:13:14] [Server thread/INFO]: <Buckner7882> taryn
-[03:13:23] [Server thread/INFO]: <gerg_9358> nooooo never i didn't say that...
-[03:13:29] [Server thread/INFO]: <gerg_9358> : D
-[03:13:32] [Server thread/INFO]: <Buckner7882> her hair is rockin
-[03:13:43] [Server thread/INFO]: <gerg_9358> it is!
-[03:13:54] [Server thread/INFO]: <gerg_9358> welp, now we need purple fireworks
-[03:15:34] [Server thread/INFO]: <Buckner7882> this is purple and black
-[03:15:49] [Server thread/INFO]: <gerg_9358> ahhh!!!
-[03:16:13] [Server thread/INFO]: <gerg_9358> made some twinkly purple
-[03:16:16] [Server thread/INFO]: <Buckner7882> well the black sucks. shoula known
-[03:17:28] [Server thread/INFO]: <gerg_9358> just curious what this will do
-[03:17:35] [Server thread/INFO]: <gerg_9358> try it
-[03:17:44] [Server thread/INFO]: <gerg_9358> lol dang
-[03:18:21] [Server thread/INFO]: <gerg_9358> hm, one more time
-[03:18:32] [Server thread/INFO]: <gerg_9358> wow, only once per press, doens't matter how long the pulse is
-[03:19:10] [Server thread/INFO]: <Buckner7882> would a lever be different?
-[03:19:16] [Server thread/INFO]: <Buckner7882> it was on the ship
-[03:19:28] [Server thread/INFO]: <gerg_9358> nope, same thing
-[03:19:31] [Server thread/INFO]: <gerg_9358> well
-[03:19:37] [Server thread/INFO]: <gerg_9358> if it did what I want a lever would continuously fire
-[03:19:55] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
-[03:20:07] [Server thread/INFO]: <gerg_9358> hehehe
-[03:20:08] [Server thread/INFO]: <gerg_9358> that's better
-[03:20:13] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[03:20:38] [Server thread/INFO]: <gerg_9358> burns the torch out though
-[03:20:58] [Server thread/INFO]: <gerg_9358> not sure what I did on the ship
-[03:21:37] [Server thread/INFO]: <gerg_9358> ahh!!
-[03:21:41] [Server thread/INFO]: <gerg_9358> did it
-[03:21:58] [Server thread/INFO]: <gerg_9358> well that's a neat little circuit
-[03:22:12] [Server thread/INFO]: <Buckner7882> looks like not matter what you got in there they all fire
-[03:22:42] [Server thread/INFO]: <gerg_9358> oh wow, so you can do multiple colors in one dispenser?
-[03:22:50] [Server thread/INFO]: <gerg_9358> lol huh, indeed you can
-[03:23:00] [Server thread/INFO]: <gerg_9358> ahh!!
-[03:23:11] [Server thread/INFO]: <Buckner7882> it picks what it does, but looking that way
-[03:23:27] [Server thread/INFO]: <gerg_9358> it looks like it does one of each?
-[03:24:01] [Server thread/INFO]: <Buckner7882> we need a button up here
-[03:24:06] [Server thread/INFO]: <gerg_9358> lol right
-[03:24:39] [Server thread/INFO]: <gerg_9358> here I'll get it this time
-[03:24:42] [Server thread/INFO]: <gerg_9358> say when
-[03:24:47] [Server thread/INFO]: <Buckner7882> ok
-[03:25:07] [Server thread/INFO]: <Buckner7882> that is awesome
-[03:25:19] [Server thread/INFO]: <gerg_9358> ah you're right, it seems to pick a few
-[03:25:36] [Server thread/INFO]: <gerg_9358> well cool
-[03:26:01] [Server thread/INFO]: <gerg_9358> oooh those look good
-[03:26:07] [Server thread/INFO]: <gerg_9358> orange and white in the same star
-[03:26:23] [Server thread/INFO]: <Buckner7882> those were the big orange ones i did
-[03:26:37] [Server thread/INFO]: <Buckner7882> there's a bunch of them in the chest
-[03:26:51] [Server thread/INFO]: <Buckner7882> for the train station
-[03:26:56] [Server thread/INFO]: <gerg_9358> yay, we'll keep the Jolly Creeper well-armed with those
-[03:27:05] [Server thread/INFO]: <gerg_9358> ahh!! youre' right, they'll match the glass
-[03:27:20] [Server thread/INFO]: <Buckner7882> yep, gotta keep the theme
-[03:27:22] [Server thread/INFO]: <gerg_9358> grabbin' a few...
-[03:27:29] [Server thread/INFO]: <Buckner7882> ok
-[03:27:39] [Server thread/INFO]: <Buckner7882> i didn't know how many you needed
-[03:27:41] [Server thread/INFO]: <gerg_9358> oh yeah, the rail & station are done
-[03:27:49] [Server thread/INFO]: <Buckner7882> cook
-[03:27:54] [Server thread/INFO]: <gerg_9358> lol I'm not sure either
-[03:28:19] [Server thread/INFO]: <gerg_9358> the other don't get on as often, so i just want 'em to be there when they happen by XD
-[03:28:31] [Server thread/INFO]: <gerg_9358> *others=Ben, Kim, JD
-[03:28:42] [Server thread/INFO]: <Buckner7882> ah ok
-[03:29:24] [Server thread/INFO]: <Buckner7882> how do you get backto my place?
-[03:29:41] [Server thread/INFO]: <gerg_9358> from the underground station near Ashly's castle, head to her village
-[03:29:55] [Server thread/INFO]: <gerg_9358> there's a Y-splitter there that stops you & lets you pick between her village & your stuff
-[03:30:02] [Server thread/INFO]: <gerg_9358> I need to change the sign in the station actually...
-[03:30:05] [Server thread/INFO]: <Buckner7882> ah ok
-[03:31:33] [Server thread/INFO]: <Buckner7882> the first thing you see is the jolly creeper
-[03:31:40] [Server thread/INFO]: <gerg_9358> lol yeah
-[03:32:01] [Server thread/INFO]: <gerg_9358> I wanted you to pop out of the ground & kinda fly past the ship
-[03:32:19] [Server thread/INFO]: <gerg_9358> which looks really cool now : D
-[03:32:36] [Server thread/INFO]: <Buckner7882> it looks better. i need to research more
-[03:33:48] [Server thread/INFO]: <gerg_9358> this was the first time I've tried diagonal track in a few MC versions, it turned out pretty neat
-[03:33:49] [Server thread/INFO]: <Buckner7882> vines have grown more on my bath
-[03:33:55] [Server thread/INFO]: <gerg_9358> ahhh they have!
-[03:34:01] [Server thread/INFO]: <gerg_9358> I'm just zipping by XD
-[03:35:12] [Server thread/INFO]: <gerg_9358> hehe did ya like the mob filter? It turned out nice & small
-[03:35:31] [Server thread/INFO]: <Buckner7882> mob filter?
-[03:35:39] [Server thread/INFO]: <gerg_9358> it keeps zombies (or anything not in a minecart) from walking up on the track
-[03:35:44] [Server thread/INFO]: <gerg_9358> I need to light it so they don't spawn up there
-[03:35:54] [Server thread/INFO]: <gerg_9358> (it's the thing I'm standing on)
-[03:35:58] [Server thread/INFO]: <Buckner7882> ahhhhh good
-[03:36:17] [Server thread/INFO]: <gerg_9358> There's another where the track goes underground
-[03:36:29] [Server thread/INFO]: <Buckner7882> I see now
-[03:36:30] [Server thread/INFO]: <gerg_9358> not quite as compact
-[03:37:14] [Server thread/INFO]: <Buckner7882> you could do it with fence
-[03:37:20] [Server thread/INFO]: <gerg_9358> ah true
-[03:37:47] [Server thread/INFO]: <gerg_9358> ah yeah, that's nice
-[03:38:19] [Server thread/INFO]: <Buckner7882> see
-[03:40:08] [Server thread/INFO]: <gerg_9358> ahhh
-[03:40:15] [Server thread/INFO]: <Buckner7882> i did the fence what do you think?
-[03:40:41] [Server thread/INFO]: <gerg_9358> oh yeah, this looks nice
-[03:41:02] [Server thread/INFO]: <gerg_9358> oh! I didn't see the filter
-[03:41:08] [Server thread/INFO]: <gerg_9358> yeah, that's sweet
-[03:41:29] [Server thread/INFO]: <Buckner7882> looks better
-[03:41:41] [Server thread/INFO]: <gerg_9358> yeah
-[03:43:09] [Server thread/INFO]: <Buckner7882> guess i shoulda used oak fence to match the gate
-[03:46:13] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[03:48:03] [Server thread/INFO]: <Buckner7882> did you check your email
-[03:48:30] [Server thread/INFO]: <gerg_9358> hehehe it works
-[03:48:32] [Server thread/INFO]: <gerg_9358> checkin' now
-[03:48:51] [Server thread/INFO]: <gerg_9358> wow it's a pirate waldo
-[03:49:07] [Server thread/INFO]: <Buckner7882> pumpkin patch resource pack
-[03:49:17] [Server thread/INFO]: <gerg_9358> lol nice
-[03:57:49] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[04:05:28] [Server thread/INFO]: <Buckner7882> oh did you look under the boat? There's chests
-[04:05:38] [Server thread/INFO]: <gerg_9358> haha!~
-[04:05:47] [Server thread/INFO]: <gerg_9358> I did not think to look for sunken treasure
-[04:52:38] [Server thread/INFO]: <Buckner7882> I have a cow stuck in the vines on the bath house
-[04:52:47] [Server thread/INFO]: <gerg_9358> lol!! he's still there??
-[04:52:51] [Server thread/INFO]: <gerg_9358> I saw him when I was there
-[04:52:57] [Server thread/INFO]: <Buckner7882> yes....
-[04:53:24] [Server thread/INFO]: <gerg_9358> dang, gonna have to give him a name if he's going to stick around
-[04:53:44] [Server thread/INFO]: <Buckner7882> well I tried to move him and he died
-[04:53:48] [Server thread/INFO]: <gerg_9358> LOL
-[04:53:55] [Server thread/INFO]: <Buckner7882> he sufficated
-[04:54:08] [Server thread/INFO]: <Buckner7882> i added some stuff to the windmill and boat
-[04:54:13] [Server thread/INFO]: <gerg_9358> lol "Give me liberty or give me death!"
-[04:54:18] [Server thread/INFO]: <gerg_9358> ooo
-[04:54:39] [Server thread/INFO]: <gerg_9358> I got an idea and got a bit carried away... I think it'll work but I should probably get in the-
-[04:54:43] [Server thread/INFO]: <gerg_9358> -shower first XD
-[04:54:54] [Server thread/INFO]: <Buckner7882> huh??
-[04:55:16] [Server thread/INFO]: <gerg_9358> I've been underground near the lighthouse & redstone clock building something; it's a bit bigger-
-[04:55:19] [Server thread/INFO]: <gerg_9358> than I initially thought
-[04:55:28] [Server thread/INFO]: <gerg_9358> ya can't see it until it's finished though
-[04:55:28] [Server thread/INFO]: <Buckner7882> oh ok
-[04:55:33] [Server thread/INFO]: <gerg_9358> and I need to go wash my stinky self XD
-[04:55:51] [Server thread/INFO]: <Buckner7882> lol ok
-[04:56:02] [Server thread/INFO]: <gerg_9358> brb!
-[04:56:05] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:56:05] [Server thread/INFO]: gerg_9358 left the game
-[05:04:06] [Server thread/INFO]: [Buckner7882: Set the time to 13000]
-[05:12:07] [Server thread/INFO]: [Buckner7882: Set the time to 13000]
-[05:45:48] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:45:48] [Server thread/INFO]: Buckner7882 left the game
-[05:57:23] [User Authenticator #77/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[05:57:23] [Server thread/INFO]: gerg_9358[/50.147.49.115:52150] logged in with entity id 5674426 at (28.28432036904208, 24.71821551466008, 47.2635758162409)
-[05:57:23] [Server thread/INFO]: gerg_9358 joined the game
-[06:18:47] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:18:47] [Server thread/INFO]: gerg_9358 left the game
-[06:19:03] [User Authenticator #78/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[06:19:03] [Server thread/INFO]: gerg_9358[/50.147.49.115:52244] logged in with entity id 5684159 at (8.959260336762368, 26.0, 37.43947424561888)
-[06:19:03] [Server thread/INFO]: gerg_9358 joined the game
-[08:08:16] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[08:08:16] [Server thread/INFO]: gerg_9358 left the game
-[16:12:12] [User Authenticator #79/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[16:12:12] [Server thread/INFO]: treeling[/70.193.101.24:4454] logged in with entity id 5764560 at (149.39519053360561, 63.0, 394.38007702238343)
-[16:12:12] [Server thread/INFO]: treeling joined the game
-[16:12:31] [Server thread/INFO]: [treeling: Set the time to 0]
-[16:43:24] [Server thread/INFO]: [treeling: Set the time to 0]
-[16:57:48] [Server thread/INFO]: [treeling: Set the time to 0]
-[16:59:30] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:59:30] [Server thread/INFO]: treeling left the game
-[17:00:09] [User Authenticator #80/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[17:00:09] [Server thread/INFO]: treeling[/70.193.101.24:7952] logged in with entity id 5781946 at (149.630183696015, 67.74478903619145, 405.15470706751375)
-[17:00:09] [Server thread/INFO]: treeling joined the game
-[17:08:29] [Server thread/INFO]: [treeling: Set the time to 0]
-[17:28:39] [User Authenticator #81/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[17:28:39] [Server thread/INFO]: gerg_9358[/50.147.49.115:54255] logged in with entity id 5793523 at (46.483860199797434, 88.86056675062626, 209.04266000290218)
-[17:28:39] [Server thread/INFO]: gerg_9358 joined the game
-[17:28:49] [Server thread/INFO]: <treeling> hello!
-[17:28:52] [Server thread/INFO]: <gerg_9358> hey!
-[18:24:23] [Server thread/INFO]: <treeling> Greg! I trained a bunch of cats hehehe
-[18:24:30] [Server thread/INFO]: <gerg_9358> ahhh!!
-[18:24:35] [Server thread/INFO]: <gerg_9358> we have pets again!
-[18:41:33] [Server thread/INFO]: treeling lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:41:33] [Server thread/INFO]: treeling left the game
-[18:47:21] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 105.5, 63.0, -133.5]
+[19:30:37] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[19:30:37] [Server thread/INFO]: Loading properties
+[19:30:37] [Server thread/INFO]: Default game type: SURVIVAL
+[19:30:37] [Server thread/INFO]: Generating keypair
+[19:30:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:30:37] [Server thread/INFO]: Using epoll channel type
+[19:30:37] [Server thread/INFO]: Preparing level "world"
+[19:30:37] [Server thread/INFO]: Preparing start region for level 0
+[19:30:38] [Server thread/INFO]: Done (0.711s)! For help, type "help" or "?"
+[19:31:10] [User Authenticator #1/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[19:31:10] [Server thread/INFO]: gerg_9358[/50.147.49.115:59393] logged in with entity id 129 at (72.6763969010843, 65.15473179307465, -127.97730643265035)
+[19:31:11] [Server thread/INFO]: gerg_9358 joined the game
+[19:31:29] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 1 to gerg_9358]
+[19:31:34] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 63 to gerg_9358]
+[19:31:37] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 63 to gerg_9358]
+[19:31:40] [Server thread/INFO]: [gerg_9358: Given [Command Block] * 1 to gerg_9358]
+[19:33:56] [User Authenticator #2/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[19:33:56] [Server thread/INFO]: bcrom[/70.193.101.24:11734] logged in with entity id 2603 at (-696.3522139264987, 33.0, -676.7890137977205)
+[19:33:56] [Server thread/INFO]: bcrom joined the game
+[19:34:08] [Server thread/INFO]: <gerg_9358> yaaaaaay
+[19:34:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2739ms behind, skipping 54 tick(s)
+[19:34:20] [Server thread/INFO]: <bcrom> yaaaaaaaay
+[19:34:27] [User Authenticator #3/INFO]: Disconnecting /70.193.101.24:11726: Failed to verify username!
+[19:34:27] [Server thread/INFO]: /70.193.101.24:11726 lost connection: Failed to verify username!
+[19:34:27] [User Authenticator #4/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
+[19:34:27] [Server thread/INFO]: treeling[/70.193.101.24:11740] logged in with entity id 7531 at (174.9600654999292, 62.0, 400.9956751371698)
+[19:34:27] [Server thread/INFO]: treeling joined the game
+[19:34:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12845ms behind, skipping 256 tick(s)
+[19:35:05] [Server thread/INFO]: <gerg_9358> so where are those cats Kim? I looked around the tree & disco palace
+[19:35:27] [Server thread/INFO]: <bcrom> kim says to tp to her
+[19:35:31] [Server thread/INFO]: <bcrom> they're on ocelot island
+[19:35:36] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to treeling]
+[19:35:40] [Server thread/INFO]: [bcrom: Teleported bcrom to treeling]
+[19:35:44] [Server thread/INFO]: <gerg_9358> ahhh!!
+[19:36:09] [Server thread/INFO]: <bcrom> enter through the roof
+[19:36:10] [Server thread/INFO]: <gerg_9358> ahhhh ok, had to get my bearings
+[19:36:17] [Server thread/INFO]: <bcrom> they get out otherwise
+[19:36:32] [Server thread/INFO]: <gerg_9358> ahhh!!
+[19:36:47] [Server thread/INFO]: <bcrom> domestication!
+[19:36:58] [Server thread/INFO]: <gerg_9358> haha this is great
+[19:37:09] [Server thread/INFO]: <gerg_9358> and they can't escape like Ashly's pack of wolves XD
+[19:37:22] [Server thread/INFO]: <bcrom> we've had problems with that
+[19:37:26] [Server thread/INFO]: <gerg_9358> Ahh!!! Love the fish art lol
+[19:37:31] [Server thread/INFO]: <treeling> panes of glass dont keep them in, only block of glass
+[19:37:36] [Server thread/INFO]: <gerg_9358> huh!
+[19:37:37] [Server thread/INFO]: <gerg_9358> interesting
+[19:37:42] [Server thread/INFO]: <gerg_9358> I thought panes acted like fence
+[19:37:55] [Server thread/INFO]: <gerg_9358> (ahh, and maybe they can get around fences because they're freakin' cats)
+[19:38:11] [Server thread/INFO]: <bcrom> lol, that would be funny
+[19:38:16] [Server thread/INFO]: <bcrom> also there's a water slide
+[19:38:20] [Server thread/INFO]: <gerg_9358> I'd have to get 'em +1 for realism XD
+[19:38:27] [Server thread/INFO]: <gerg_9358> just noticed this!
+[19:38:28] [Server thread/INFO]: <treeling> That's why i built a small island for more control.
+[19:38:30] [Server thread/INFO]: <gerg_9358> sweet!
+[19:38:40] [Server thread/INFO]: <gerg_9358> Lol keep 'em isolated eh...
+[19:39:01] [Server thread/INFO]: <treeling> yep
+[19:39:05] [Server thread/INFO]: <bcrom> yep
+[19:39:11] [Server thread/INFO]: <gerg_9358> haha
+[19:39:20] [Server thread/INFO]: <gerg_9358> this is a sweet island!
+[19:39:29] [Server thread/INFO]: <bcrom> Kim is building more offshore real estate than China
+[19:39:35] [Server thread/INFO]: <gerg_9358> LOL
+[19:39:44] [Server thread/INFO]: <gerg_9358> I'm liking this archipelago thing
+[19:40:18] [Server thread/INFO]: <bcrom> me too
+[19:40:25] [Server thread/INFO]: <gerg_9358> ahh, this grove is a nice smoke spot
+[19:40:27] [Server thread/INFO]: [bcrom: Teleported bcrom to gerg_9358]
+[19:40:36] [Server thread/INFO]: <bcrom> indeed
+[19:40:59] [Server thread/INFO]: <gerg_9358> a fugitive!
+[19:41:05] [Server thread/INFO]: <bcrom> they teleport to her sometimes
+[19:41:16] [Server thread/INFO]: <bcrom> it's nice having pets
+[19:41:23] [Server thread/INFO]: <gerg_9358> oooh yeah, dogs do that too
+[19:41:40] [Server thread/INFO]: <gerg_9358> lol it's funny when you're on a long minecart ride
+[19:41:53] [Server thread/INFO]: <bcrom> hehe, and you can put cats in minecarts
+[19:41:57] [Server thread/INFO]: <gerg_9358> whaa!
+[19:43:19] [Server thread/INFO]: [gerg_9358: Changing to clear weather]
+[19:45:38] [Server thread/INFO]: [treeling: Set the time to 1000]
+[19:45:48] [Server thread/INFO]: <gerg_9358> hmmm
+[19:48:10] [Server thread/INFO]: <bcrom> hmm?
+[19:48:16] [Server thread/INFO]: <gerg_9358> ahhh
+[19:48:21] [Server thread/INFO]: <gerg_9358> now with 100% more hot tub
+[19:48:25] [Server thread/INFO]: <bcrom> looool
+[19:48:34] [Server thread/INFO]: <gerg_9358> XD
+[19:48:38] [Server thread/INFO]: <bcrom> oops
+[19:48:38] [Server thread/INFO]: <gerg_9358> LOL
+[19:48:42] [Server thread/INFO]: <gerg_9358> how is that
+[19:48:49] [Server thread/INFO]: <bcrom> shit
+[19:48:50] [Server thread/INFO]: <gerg_9358> hahahahaha
+[19:48:59] [Server thread/INFO]: <bcrom> how to fix it?
+[19:49:01] [Server thread/INFO]: <gerg_9358> lol!
+[19:49:15] [Server thread/INFO]: <gerg_9358> lava & water don't like to cooperate
+[19:49:43] [Server thread/INFO]: <gerg_9358> lol that was awesome
+[19:49:54] [Server thread/INFO]: <bcrom> ah, thanks
+[19:50:01] [Server thread/INFO]: <gerg_9358> oo that's cool
+[19:50:06] [Server thread/INFO]: <treeling> Yeah, I just built a floating dirt pile
+[19:50:18] [Server thread/INFO]: <bcrom> I am on fire
+[19:50:26] [Server thread/INFO]: <gerg_9358> woo!
+[19:50:31] [Server thread/INFO]: <gerg_9358> this is a cool island
+[19:50:32] [Server thread/INFO]: <treeling> awesome!!!!
+[19:52:19] [Server thread/INFO]: <bcrom> okay, back to my python exercises
+[19:52:27] [Server thread/INFO]: <bcrom> enjoy!
+[19:52:39] [Server thread/INFO]: <gerg_9358> aw; nice!
+[19:53:45] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:53:45] [Server thread/INFO]: bcrom left the game
+[19:56:03] [Server thread/INFO]: [treeling: Set the time to 0]
