@@ -111,3 +111,8 @@
 [20:58:25] [Server thread/INFO]: Buckner7882[/69.129.19.69:52112] logged in with entity id 92077 at (-114.95642211451596, 72.0, -400.91261128840375)
 [20:58:25] [Server thread/INFO]: Buckner7882 joined the game
 [20:58:43] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[21:07:01] [Server thread/INFO]: <Buckner7882> Greg did you finish your project?
+[21:16:06] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:16:06] [Server thread/INFO]: Buckner7882 left the game
+[21:23:14] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:23:14] [Server thread/INFO]: treeling left the game
