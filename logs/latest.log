@@ -310,3 +310,9 @@
 [17:28:39] [Server thread/INFO]: gerg_9358 joined the game
 [17:28:49] [Server thread/INFO]: <treeling> hello!
 [17:28:52] [Server thread/INFO]: <gerg_9358> hey!
+[18:24:23] [Server thread/INFO]: <treeling> Greg! I trained a bunch of cats hehehe
+[18:24:30] [Server thread/INFO]: <gerg_9358> ahhh!!
+[18:24:35] [Server thread/INFO]: <gerg_9358> we have pets again!
+[18:41:33] [Server thread/INFO]: treeling lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:41:33] [Server thread/INFO]: treeling left the game
+[18:47:21] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to 105.5, 63.0, -133.5]
