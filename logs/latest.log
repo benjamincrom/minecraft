@@ -263,3 +263,5 @@
 [04:43:24] [Server thread/INFO]: [treeling: Teleported treeling to -699.5, 100.0, -699.5]
 [04:44:48] [Server thread/INFO]: [@: Teleported treeling to 36.5, 101.0, 222.5]
 [04:45:24] [Server thread/INFO]: [@: Teleported treeling to 148.5, 63.0, 390.5]
+[06:14:49] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:14:49] [Server thread/INFO]: treeling left the game
