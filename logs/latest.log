@@ -19,3 +19,14 @@
 [03:27:53] [Server thread/INFO]: treeling[/70.193.140.188:1436] logged in with entity id 1098701 at (87.30000001192091, 64.04630312460245, 480.62661038249837)
 [03:27:53] [Server thread/INFO]: treeling joined the game
 [04:51:46] [Server thread/INFO]: [treeling: Set the time to 0]
+[05:02:21] [Server thread/INFO]: [treeling: Set the time to 0]
+[05:13:29] [Server thread/INFO]: [treeling: Set the time to 0]
+[05:14:07] [Server thread/INFO]: treeling lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:14:07] [Server thread/INFO]: treeling left the game
+[05:20:28] [User Authenticator #19/INFO]: Disconnecting /70.193.140.188:1437: Failed to verify username!
+[05:20:28] [Server thread/INFO]: /70.193.140.188:1437 lost connection: Failed to verify username!
+[05:20:28] [User Authenticator #20/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
+[05:20:28] [Server thread/INFO]: treeling[/70.193.140.188:1435] logged in with entity id 1169248 at (74.67894942281526, 70.25326932296446, 483.3798804810632)
+[05:20:28] [Server thread/INFO]: treeling joined the game
+[05:24:40] [Server thread/INFO]: [treeling: Set the time to 0]
+[05:42:21] [Server thread/INFO]: [treeling: Set the time to 0]
