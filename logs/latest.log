@@ -96,3 +96,5 @@
 [16:28:06] [Server thread/INFO]: [Buckner7882: Set the time to 0]
 [17:38:55] [Server thread/INFO]: [Buckner7882: Set the time to 13000]
 [17:45:59] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[18:02:51] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:02:51] [Server thread/INFO]: Buckner7882 left the game
