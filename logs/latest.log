@@ -1,5 +1,16 @@
-[01:12:46] [User Authenticator #29/INFO]: UUID of player treeling is be57b285-c495-4842-8583-d85d23a79797
-[01:12:46] [Server thread/INFO]: treeling[/70.193.163.247:4533] logged in with entity id 2046773 at (67.30436731899994, 88.9513189826681, 461.83527248610136)
-[01:12:46] [Server thread/INFO]: treeling joined the game
-[01:45:50] [Server thread/INFO]: treeling lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:45:50] [Server thread/INFO]: treeling left the game
+[02:54:31] [User Authenticator #30/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[02:54:31] [Server thread/INFO]: Buckner7882[/69.129.19.69:63497] logged in with entity id 2060680 at (-132.6052183007792, 95.0704656084056, -359.5812433243627)
+[02:54:31] [Server thread/INFO]: Buckner7882 joined the game
+[03:46:38] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
+[03:46:48] [Server thread/INFO]: [@: Teleported Buckner7882 to 35.5, 63.0, -125.5]
+[03:46:57] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
+[03:47:04] [Server thread/INFO]: [@: Teleported Buckner7882 to 35.5, 63.0, -125.5]
+[03:47:16] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
+[03:47:22] [Server thread/INFO]: [@: Teleported Buckner7882 to 35.5, 63.0, -125.5]
+[03:47:34] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
+[03:47:39] [Server thread/INFO]: [@: Teleported Buckner7882 to 35.5, 63.0, -125.5]
+[03:48:25] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
+[03:48:32] [Server thread/INFO]: [@: Teleported Buckner7882 to -156.5, 71.0, -406.5]
+[03:51:02] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
+[03:54:46] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:54:46] [Server thread/INFO]: Buckner7882 left the game
