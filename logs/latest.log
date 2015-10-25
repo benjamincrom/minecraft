@@ -20,3 +20,11 @@
 [01:19:28] [Server thread/INFO]: [@: Teleported Buckner7882 to -156.5, 71.0, -406.5]
 [01:19:49] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [01:19:49] [Server thread/INFO]: Buckner7882 left the game
+[17:07:26] [User Authenticator #34/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
+[17:07:26] [Server thread/INFO]: gerg_9358[/50.147.49.115:54153] logged in with entity id 2260989 at (37.44940467877452, 101.0, 222.09754821264136)
+[17:07:26] [Server thread/INFO]: gerg_9358 joined the game
+[17:07:34] [Server thread/INFO]: [@: Teleported gerg_9358 to 19.5, 26.0, 55.5]
+[17:09:35] [Server thread/INFO]: [@: Teleported gerg_9358 to 36.5, 101.0, 222.5]
+[17:09:41] [Server thread/INFO]: [@: Teleported gerg_9358 to -681.5, 63.0, -758.5]
+[17:23:04] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:23:04] [Server thread/INFO]: gerg_9358 left the game
