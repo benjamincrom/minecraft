@@ -1,40 +1,6 @@
-[22:19:01] [User Authenticator #35/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[22:19:01] [Server thread/INFO]: gerg_9358[/160.36.138.31:34577] logged in with entity id 2283489 at (-688.523045365755, 38.164119854075814, -676.1733093306137)
-[22:19:01] [Server thread/INFO]: gerg_9358 joined the game
-[22:19:19] [User Authenticator #36/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[22:19:19] [Server thread/INFO]: Buckner7882[/69.129.19.69:65238] logged in with entity id 2284879 at (-125.86175979158855, 112.37228148656615, -417.0957071043341)
-[22:19:19] [Server thread/INFO]: Buckner7882 joined the game
-[22:19:24] [Server thread/INFO]: <gerg_9358> lol
-[22:19:26] [Server thread/INFO]: <gerg_9358> haven't left work yet
-[22:19:29] [Server thread/INFO]: <gerg_9358> was gonna grab a screenshot
-[22:19:50] [Server thread/INFO]: <Buckner7882> are you talking about the front sail?
-[22:20:01] [Server thread/INFO]: <gerg_9358> no, its' next to Kim's treehouse
-[22:20:04] [Server thread/INFO]: [@: Teleported gerg_9358 to 36.5, 101.0, 222.5]
-[22:20:10] [Server thread/INFO]: [@: Teleported gerg_9358 to 86.5, 89.0, 323.5]
-[22:20:17] [Server thread/INFO]: <gerg_9358> "The cheese abides" lol
-[22:20:24] [Server thread/INFO]: <Buckner7882> I haven't seen that
-[22:20:29] [Server thread/INFO]: <gerg_9358> maybe it was Ben & Kim that did that
-[22:20:33] [Server thread/INFO]: <gerg_9358> i probably got mixed it
-[22:20:38] [Server thread/INFO]: <gerg_9358> *up
-[22:20:41] [Server thread/INFO]: <gerg_9358> teleporting you...
-[22:20:43] [Server thread/INFO]: <Buckner7882> I wouldn't build there
-[22:20:47] [Server thread/INFO]: <gerg_9358> ahhh
-[22:20:50] [Server thread/INFO]: <gerg_9358> it had to have been them then
-[22:20:57] [Server thread/INFO]: [gerg_9358: Teleported Buckner7882 to gerg_9358]
-[22:21:00] [Server thread/INFO]: <Buckner7882> had to have been
-[22:21:09] [Server thread/INFO]: <Buckner7882> you givin me a hug?
-[22:21:21] [Server thread/INFO]: <gerg_9358> ooooh, that's a Big Lebowski reference, duh
-[22:21:25] [Server thread/INFO]: <gerg_9358> "The Dude Abides"
-[22:21:53] [Server thread/INFO]: <gerg_9358> well
-[22:22:00] [Server thread/INFO]: <Buckner7882> wonder what the platform is?
-[22:22:03] [Server thread/INFO]: <gerg_9358> gonna run home now that we're un-confused XD
-[22:22:09] [Server thread/INFO]: <gerg_9358> yeah, I'm not sure either
-[22:22:13] [Server thread/INFO]: <Buckner7882> ok
-[22:22:16] [Server thread/INFO]: <gerg_9358> Love ya!
-[22:22:19] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:22:19] [Server thread/INFO]: gerg_9358 left the game
-[22:22:20] [Server thread/INFO]: <Buckner7882> love you
-[22:24:21] [Server thread/INFO]: [@: Teleported Buckner7882 to 36.5, 101.0, 222.5]
-[22:24:24] [Server thread/INFO]: [@: Teleported Buckner7882 to -156.5, 71.0, -406.5]
-[22:24:28] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:24:28] [Server thread/INFO]: Buckner7882 left the game
+[00:39:35] [User Authenticator #37/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[00:39:35] [Server thread/INFO]: Buckner7882[/69.129.19.69:49297] logged in with entity id 2301274 at (-156.5, 71.0, -406.5)
+[00:39:35] [Server thread/INFO]: Buckner7882 joined the game
+[00:48:33] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[00:59:10] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:59:10] [Server thread/INFO]: Buckner7882 left the game
