@@ -71,3 +71,5 @@
 [11:49:00] [Server thread/INFO]: Buckner7882[/69.129.19.69:57480] logged in with entity id 3153628 at (-137.66558176358876, 82.65415235853358, -464.0344483243947)
 [11:49:00] [Server thread/INFO]: Buckner7882 joined the game
 [11:49:47] [Server thread/INFO]: [Buckner7882: Cleared the inventory of Buckner7882, removing 18 items]
+[12:54:03] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:54:03] [Server thread/INFO]: Buckner7882 left the game
