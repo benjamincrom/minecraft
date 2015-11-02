@@ -83,3 +83,13 @@
 [15:21:26] [Server thread/INFO]: Buckner7882 joined the game
 [16:09:41] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [16:09:41] [Server thread/INFO]: Buckner7882 left the game
+[21:39:32] [User Authenticator #52/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[21:39:32] [Server thread/INFO]: bcrom[/70.193.171.211:11598] logged in with entity id 3274004 at (162.99149068164402, 87.0, 384.7756798969631)
+[21:39:32] [Server thread/INFO]: bcrom joined the game
+[21:47:30] [Server thread/INFO]: bcrom lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:47:30] [Server thread/INFO]: bcrom left the game
+[21:50:28] [User Authenticator #53/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[21:50:28] [Server thread/INFO]: bcrom[/70.193.171.211:11611] logged in with entity id 3279302 at (162.99149068164402, 87.0, 384.7756798969631)
+[21:50:28] [Server thread/INFO]: bcrom joined the game
+[21:51:42] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:51:42] [Server thread/INFO]: bcrom left the game
