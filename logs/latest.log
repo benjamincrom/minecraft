@@ -1,114 +1,35 @@
-[00:13:05] [Server thread/INFO]: [Buckner7882: 882 blocks cloned]
-[00:14:31] [Server thread/INFO]: [Buckner7882: 882 blocks cloned]
-[00:16:20] [Server thread/INFO]: [Buckner7882: 882 blocks cloned]
-[00:21:06] [Server thread/INFO]: [Buckner7882: 4998 blocks cloned]
-[00:26:45] [Server thread/INFO]: [Buckner7882: 3332 blocks cloned]
-[00:29:30] [Server thread/INFO]: [Buckner7882: 1666 blocks cloned]
-[00:32:05] [Server thread/INFO]: [Buckner7882: 1666 blocks cloned]
-[00:33:20] [Server thread/INFO]: [Buckner7882: 833 blocks cloned]
-[00:38:46] [Server thread/INFO]: [Buckner7882: 5415 blocks cloned]
-[00:40:40] [Server thread/INFO]: [Buckner7882: 5415 blocks cloned]
-[00:41:11] [Server thread/INFO]: [Buckner7882: 5415 blocks cloned]
-[00:42:04] [Server thread/INFO]: [Buckner7882: 5415 blocks cloned]
-[01:09:22] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[01:21:45] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[01:23:02] [User Authenticator #47/INFO]: UUID of player gerg_9358 is e1e072c6-67e3-4245-9a31-25dc36387f21
-[01:23:02] [Server thread/INFO]: gerg_9358[/50.147.49.115:55625] logged in with entity id 3012148 at (92.04859331380291, 81.50288323236688, 505.6808534428016)
-[01:23:02] [Server thread/INFO]: gerg_9358 joined the game
-[01:23:33] [Server thread/INFO]: <Buckner7882> hi
-[01:23:40] [Server thread/INFO]: [gerg_9358: Teleported gerg_9358 to Buckner7882]
-[01:23:45] [Server thread/INFO]: <gerg_9358> hi!
-[01:26:36] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[01:26:55] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[01:29:04] [Server thread/INFO]: [Buckner7882: 375 blocks cloned]
-[01:37:35] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[01:42:56] [Server thread/INFO]: [@: Teleported gerg_9358 to 36.5, 101.0, 222.5]
-[01:43:35] [Server thread/INFO]: [@: Teleported gerg_9358 to -226.5, 77.0, -319.5]
-[01:44:25] [Server thread/INFO]: [gerg_9358: Set the time to 15000]
-[01:44:47] [Server thread/INFO]: [gerg_9358: Set the time to 0]
-[01:44:56] [Server thread/INFO]: [@: Teleported gerg_9358 to 36.5, 101.0, 222.5]
-[01:45:12] [Server thread/INFO]: [@: Teleported gerg_9358 to -226.5, 77.0, -319.5]
-[01:57:49] [Server thread/INFO]: [@: Teleported gerg_9358 to 36.5, 101.0, 222.5]
-[01:57:59] [Server thread/INFO]: [@: Teleported gerg_9358 to -226.5, 77.0, -319.5]
-[02:05:45] [Server thread/INFO]: gerg_9358 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:05:45] [Server thread/INFO]: gerg_9358 left the game
-[02:21:03] [Server thread/INFO]: [Buckner7882: 1794 blocks cloned]
-[02:22:02] [Server thread/INFO]: [Buckner7882: 1794 blocks cloned]
-[02:23:25] [Server thread/INFO]: [Buckner7882: 864 blocks cloned]
-[02:24:03] [Server thread/INFO]: [Buckner7882: 864 blocks cloned]
-[02:24:47] [Server thread/INFO]: [Buckner7882: 8208 blocks cloned]
-[02:25:52] [Server thread/INFO]: [Buckner7882: 3420 blocks cloned]
-[02:29:31] [Server thread/INFO]: [Buckner7882: 10488 blocks cloned]
-[02:29:40] [Server thread/INFO]: [Buckner7882: Cleared the inventory of Buckner7882, removing 64 items]
-[02:31:51] [Server thread/INFO]: [Buckner7882: 21850 blocks cloned]
-[02:33:44] [Server thread/INFO]: [Buckner7882: 21850 blocks cloned]
-[02:41:05] [Server thread/INFO]: [Buckner7882: 3404 blocks cloned]
-[02:48:56] [Server thread/INFO]: [Buckner7882: 10212 blocks cloned]
-[02:55:42] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[03:00:41] [Server thread/INFO]: [Buckner7882: 11248 blocks cloned]
-[03:10:22] [Server thread/INFO]: [Buckner7882: 12760 blocks cloned]
-[03:11:53] [Server thread/INFO]: [Buckner7882: 12760 blocks cloned]
-[03:14:50] [Server thread/INFO]: [Buckner7882: Changing to rainy weather]
-[03:16:13] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
-[03:17:22] [Server thread/INFO]: [Buckner7882: 12760 blocks cloned]
-[03:20:04] [Server thread/INFO]: [Buckner7882: 30566 blocks cloned]
-[03:20:52] [Server thread/INFO]: [Buckner7882: 30566 blocks cloned]
-[03:21:31] [Server thread/INFO]: [Buckner7882: 30566 blocks cloned]
-[03:24:30] [Server thread/INFO]: [Buckner7882: 30566 blocks cloned]
-[03:25:20] [Server thread/INFO]: [Buckner7882: 26350 blocks cloned]
-[03:26:09] [Server thread/INFO]: [Buckner7882: 26350 blocks cloned]
-[03:28:12] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
-[03:28:48] [Server thread/INFO]: [Buckner7882: Changing to rainy weather]
-[03:33:15] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:33:15] [Server thread/INFO]: Buckner7882 left the game
-[03:33:20] [User Authenticator #48/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[03:33:20] [Server thread/INFO]: Buckner7882[/69.129.19.69:56129] logged in with entity id 3148520 at (-206.46714360814948, 80.81598174309018, -527.6019745780573)
-[03:33:20] [Server thread/INFO]: Buckner7882 joined the game
-[03:33:36] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
-[03:38:21] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:38:21] [Server thread/INFO]: Buckner7882 left the game
-[11:49:00] [User Authenticator #49/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[11:49:00] [Server thread/INFO]: Buckner7882[/69.129.19.69:57480] logged in with entity id 3153628 at (-137.66558176358876, 82.65415235853358, -464.0344483243947)
-[11:49:00] [Server thread/INFO]: Buckner7882 joined the game
-[11:49:47] [Server thread/INFO]: [Buckner7882: Cleared the inventory of Buckner7882, removing 18 items]
-[12:54:03] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[12:54:03] [Server thread/INFO]: Buckner7882 left the game
-[15:03:44] [User Authenticator #50/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[15:03:45] [Server thread/INFO]: Buckner7882[/69.129.19.69:58132] logged in with entity id 3208412 at (-145.766302895583, 85.86246883632391, -445.2914893050261)
-[15:03:45] [Server thread/INFO]: Buckner7882 joined the game
-[15:21:13] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:21:13] [Server thread/INFO]: Buckner7882 left the game
-[15:21:26] [User Authenticator #51/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[15:21:26] [Server thread/INFO]: Buckner7882[/69.129.19.69:58160] logged in with entity id 3227927 at (-137.720346481835, 118.65200911299364, -437.6911615301246)
-[15:21:26] [Server thread/INFO]: Buckner7882 joined the game
-[16:09:41] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:09:41] [Server thread/INFO]: Buckner7882 left the game
-[21:39:32] [User Authenticator #52/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
-[21:39:32] [Server thread/INFO]: bcrom[/70.193.171.211:11598] logged in with entity id 3274004 at (162.99149068164402, 87.0, 384.7756798969631)
-[21:39:32] [Server thread/INFO]: bcrom joined the game
-[21:47:30] [Server thread/INFO]: bcrom lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:47:30] [Server thread/INFO]: bcrom left the game
-[21:50:28] [User Authenticator #53/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
-[21:50:28] [Server thread/INFO]: bcrom[/70.193.171.211:11611] logged in with entity id 3279302 at (162.99149068164402, 87.0, 384.7756798969631)
-[21:50:28] [Server thread/INFO]: bcrom joined the game
-[21:51:42] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:51:42] [Server thread/INFO]: bcrom left the game
-[22:05:04] [User Authenticator #54/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
-[22:05:05] [Server thread/INFO]: bcrom[/70.193.171.211:5454] logged in with entity id 3280238 at (80.23376698547266, 66.0, 481.0355436386483)
-[22:05:05] [Server thread/INFO]: bcrom joined the game
-[22:05:35] [Server thread/INFO]: bcrom lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:05:35] [Server thread/INFO]: bcrom left the game
-[23:26:48] [User Authenticator #55/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[23:26:48] [Server thread/INFO]: Buckner7882[/69.129.19.69:62054] logged in with entity id 3280561 at (-163.10689484395027, 118.92333908819168, -482.5101775695198)
-[23:26:48] [Server thread/INFO]: Buckner7882 joined the game
-[23:27:59] [User Authenticator #56/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
-[23:27:59] [Server thread/INFO]: bcrom[/70.193.171.211:11611] logged in with entity id 3281249 at (80.23376698547266, 66.0, 481.0355436386483)
-[23:27:59] [Server thread/INFO]: bcrom joined the game
-[23:30:57] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:30:57] [Server thread/INFO]: bcrom left the game
-[23:32:06] [Server thread/INFO]: [Buckner7882: Set the time to 0]
-[23:48:07] [Server thread/INFO]: [Buckner7882: 1536 blocks cloned]
-[23:52:53] [Server thread/INFO]: [Buckner7882: 768 blocks cloned]
-[23:54:12] [Server thread/INFO]: [Buckner7882: 768 blocks cloned]
-[23:55:33] [Server thread/INFO]: [Buckner7882: 768 blocks cloned]
-[23:57:22] [Server thread/INFO]: [Buckner7882: 768 blocks cloned]
+[00:02:32] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[00:04:55] [Server thread/INFO]: [Buckner7882: 2232 blocks cloned]
+[00:10:16] [User Authenticator #57/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[00:10:16] [Server thread/INFO]: bcrom[/70.193.171.211:11611] logged in with entity id 3314186 at (80.23376698547266, 66.0, 481.0355436386483)
+[00:10:16] [Server thread/INFO]: bcrom joined the game
+[00:10:48] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:10:48] [Server thread/INFO]: bcrom left the game
+[00:11:32] [User Authenticator #58/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[00:11:32] [Server thread/INFO]: bcrom[/70.193.171.211:11610] logged in with entity id 3315778 at (80.23376698547266, 66.0, 481.0355436386483)
+[00:11:32] [Server thread/INFO]: bcrom joined the game
+[00:13:35] [Server thread/INFO]: [Buckner7882: 20088 blocks cloned]
+[00:14:20] [Server thread/INFO]: [Buckner7882: 31248 blocks cloned]
+[00:18:03] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:18:03] [Server thread/INFO]: Buckner7882 left the game
+[00:19:49] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:19:49] [Server thread/INFO]: bcrom left the game
+[00:19:57] [User Authenticator #59/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[00:19:57] [Server thread/INFO]: bcrom[/70.193.171.211:11598] logged in with entity id 3328885 at (86.21507308221616, 96.94292483022377, 263.05111178496264)
+[00:19:57] [Server thread/INFO]: bcrom joined the game
+[00:24:28] [Server thread/INFO]: [@: Teleported bcrom to 139.5, 42.0, 169.5]
+[00:25:25] [Server thread/INFO]: [@: Teleported bcrom to 128.5, 97.0, 189.5]
+[00:25:39] [Server thread/INFO]: [@: Teleported bcrom to 36.5, 101.0, 222.5]
+[00:26:03] [Server thread/INFO]: [@: Teleported bcrom to -156.5, 71.0, -406.5]
+[00:29:58] [Server thread/INFO]: [@: Teleported bcrom to 36.5, 101.0, 222.5]
+[00:30:37] [Server thread/INFO]: [@: Teleported bcrom to -681.5, 63.0, -758.5]
+[00:33:44] [Server thread/INFO]: bcrom lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:33:44] [Server thread/INFO]: bcrom left the game
+[00:45:08] [User Authenticator #60/INFO]: UUID of player bcrom is f28b70a7-0ef2-4aac-a3dd-f3960fbda439
+[00:45:08] [Server thread/INFO]: bcrom[/70.193.171.211:11599] logged in with entity id 3350173 at (-716.0553193582599, 42.0, -687.8662670996686)
+[00:45:08] [Server thread/INFO]: bcrom joined the game
+[00:52:42] [Server thread/INFO]: [@: Teleported bcrom to 36.5, 101.0, 222.5]
+[00:53:02] [Server thread/INFO]: [@: Teleported bcrom to -156.5, 71.0, -406.5]
+[00:59:07] [User Authenticator #61/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[00:59:07] [Server thread/INFO]: Buckner7882[/69.129.19.69:62664] logged in with entity id 3377880 at (-239.3230017119645, 91.68976480218087, -377.1520709384045)
+[00:59:07] [Server thread/INFO]: Buckner7882 joined the game
