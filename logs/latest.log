@@ -100,3 +100,10 @@
 [17:40:07] [Server thread/INFO]: [Buckner7882: 1275 blocks cloned]
 [17:41:17] [Server thread/INFO]: [Buckner7882: 5100 blocks cloned]
 [17:41:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
+[18:21:13] [Server thread/INFO]: [Buckner7882: 12750 blocks cloned]
+[18:21:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2496ms behind, skipping 49 tick(s)
+[18:21:53] [Server thread/INFO]: [Buckner7882: 510 blocks cloned]
+[18:23:32] [Server thread/INFO]: [Buckner7882: 250 blocks cloned]
+[18:25:50] [Server thread/INFO]: [Buckner7882: 12750 blocks cloned]
+[18:25:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
+[18:46:20] [Server thread/INFO]: [Buckner7882: Set the time to 0]
