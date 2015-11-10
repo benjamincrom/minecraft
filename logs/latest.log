@@ -3,3 +3,5 @@
 [11:02:29] [Server thread/INFO]: Buckner7882 joined the game
 [11:07:46] [Server thread/INFO]: [Buckner7882: Set the time to 13000]
 [11:16:44] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
+[13:12:58] [Server thread/INFO]: Buckner7882 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:12:58] [Server thread/INFO]: Buckner7882 left the game
