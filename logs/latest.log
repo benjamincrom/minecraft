@@ -1,7 +1,6 @@
-[11:02:29] [User Authenticator #81/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[11:02:29] [Server thread/INFO]: Buckner7882[/69.129.19.69:50577] logged in with entity id 9796842 at (-139.77165786724706, 63.0, -510.31563439142826)
-[11:02:29] [Server thread/INFO]: Buckner7882 joined the game
-[11:07:46] [Server thread/INFO]: [Buckner7882: Set the time to 13000]
-[11:16:44] [Server thread/INFO]: [Buckner7882: Changing to clear weather]
-[13:12:58] [Server thread/INFO]: Buckner7882 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:12:58] [Server thread/INFO]: Buckner7882 left the game
+[00:04:32] [User Authenticator #82/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[00:04:32] [Server thread/INFO]: Buckner7882[/69.131.244.142:53432] logged in with entity id 9981702 at (-161.13018017204766, 117.63631681678176, -648.7870209453472)
+[00:04:32] [Server thread/INFO]: Buckner7882 joined the game
+[00:15:35] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[00:24:26] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:24:26] [Server thread/INFO]: Buckner7882 left the game
