@@ -6,3 +6,5 @@
 [13:12:38] [User Authenticator #100/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
 [13:12:38] [Server thread/INFO]: Buckner7882[/69.131.244.142:63319] logged in with entity id 30565276 at (-125.6675231315838, 126.81728672500515, -851.9241938705794)
 [13:12:38] [Server thread/INFO]: Buckner7882 joined the game
+[17:22:57] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:22:57] [Server thread/INFO]: Buckner7882 left the game
