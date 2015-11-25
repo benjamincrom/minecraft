@@ -12,3 +12,7 @@
 [02:47:24] [Server thread/INFO]: [Buckner7882: 28290 blocks cloned]
 [02:53:17] [Server thread/INFO]: [Buckner7882: 28290 blocks cloned]
 [02:53:51] [Server thread/INFO]: [Buckner7882: 28290 blocks cloned]
+[03:01:01] [Server thread/INFO]: [Buckner7882: 28290 blocks cloned]
+[03:01:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2259ms behind, skipping 45 tick(s)
+[03:20:50] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:20:50] [Server thread/INFO]: Buckner7882 left the game
