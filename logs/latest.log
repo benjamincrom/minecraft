@@ -11,3 +11,6 @@
 [03:53:38] [Server thread/INFO]: Buckner7882[/69.131.244.142:54253] logged in with entity id 49647675 at (-294.93364917408707, 149.50992093222436, -572.1850241119585)
 [03:53:38] [Server thread/INFO]: Buckner7882 joined the game
 [03:53:51] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[04:04:29] [Server thread/INFO]: [Buckner7882: Set the time to 0]
+[04:11:29] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:11:29] [Server thread/INFO]: Buckner7882 left the game
