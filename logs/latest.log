@@ -5,3 +5,6 @@
 [18:54:07] [Server thread/INFO]: [Buckner7882: Set the time to 0]
 [19:21:50] [Server thread/INFO]: Buckner7882 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [19:21:50] [Server thread/INFO]: Buckner7882 left the game
+[22:36:12] [User Authenticator #152/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
+[22:36:12] [Server thread/INFO]: Buckner7882[/69.131.244.142:64852] logged in with entity id 51457670 at (-142.67427065113975, 120.20000004768367, -765.9097360175966)
+[22:36:12] [Server thread/INFO]: Buckner7882 joined the game
