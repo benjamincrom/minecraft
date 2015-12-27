@@ -5,3 +5,9 @@
 [05:51:03] [Server thread/INFO]: [Buckner7882: Set the time to 0]
 [06:28:43] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [06:28:43] [Server thread/INFO]: Buckner7882 left the game
+[20:56:18] [User Authenticator #155/INFO]: UUID of player ashlypearson is d8b9db4a-9f79-4f60-af58-822099e1790d
+[20:56:18] [Server thread/INFO]: ashlypearson[/70.210.8.186:7542] logged in with entity id 55197827 at (32.718077331952706, 54.49771487081909, -102.3000000119209)
+[20:56:18] [Server thread/INFO]: ashlypearson joined the game
+[20:56:31] [Server thread/INFO]: [@: Teleported ashlypearson to 36.5, 101.0, 222.5]
+[20:56:42] [Server thread/INFO]: [@: Teleported ashlypearson to -145.5, 144.0, -553.5]
+[20:59:51] [Server thread/INFO]: <ashlypearson> DW
