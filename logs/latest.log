@@ -11,3 +11,8 @@
 [20:56:31] [Server thread/INFO]: [@: Teleported ashlypearson to 36.5, 101.0, 222.5]
 [20:56:42] [Server thread/INFO]: [@: Teleported ashlypearson to -145.5, 144.0, -553.5]
 [20:59:51] [Server thread/INFO]: <ashlypearson> DW
+[21:00:40] [Server thread/INFO]: <ashlypearson> W
+[21:04:43] [Server thread/INFO]: <ashlypearson> D
+[21:09:34] [Server thread/INFO]: <ashlypearson> T
+[21:17:53] [Server thread/INFO]: ashlypearson lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:17:53] [Server thread/INFO]: ashlypearson left the game
