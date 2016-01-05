@@ -1,13 +1,2 @@
-[03:51:31] [User Authenticator #163/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[03:51:31] [Server thread/INFO]: Buckner7882[/69.131.244.142:56963] logged in with entity id 56009853 at (-289.05799587016526, 104.11043779871365, -604.7712538117426)
-[03:51:31] [Server thread/INFO]: Buckner7882 joined the game
-[03:51:32] [User Authenticator #164/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[03:51:32] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:51:32] [Server thread/INFO]: Buckner7882 left the game
-[03:51:32] [Server thread/INFO]: Buckner7882[/69.131.244.142:56965] logged in with entity id 56010136 at (-289.05799587016526, 104.11043779871365, -604.7712538117426)
-[03:51:32] [Server thread/INFO]: Buckner7882 joined the game
-[05:45:14] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:45:14] [Server thread/INFO]: Buckner7882 left the game
-[23:45:53] [User Authenticator #165/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[23:45:53] [Server thread/INFO]: Buckner7882[/69.131.244.142:60156] logged in with entity id 56143121 at (-200.52589599525365, 79.89403018621195, -670.875521882966)
-[23:45:53] [Server thread/INFO]: Buckner7882 joined the game
+[00:22:54] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:22:54] [Server thread/INFO]: Buckner7882 left the game
