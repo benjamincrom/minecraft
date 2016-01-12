@@ -1,24 +1,12 @@
-[12:27:25] [User Authenticator #171/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[12:27:25] [Server thread/INFO]: Buckner7882[/69.131.244.142:52722] logged in with entity id 56242037 at (-273.65855981376234, 116.10660071702848, -587.1580621981968)
-[12:27:25] [Server thread/INFO]: Buckner7882 joined the game
-[12:34:44] [Server thread/INFO]: [Buckner7882: 765 blocks cloned]
-[12:39:18] [Server thread/INFO]: [Buckner7882: 765 blocks cloned]
-[13:06:44] [Server thread/INFO]: [Buckner7882: 2340 blocks cloned]
-[13:06:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2806ms behind, skipping 56 tick(s)
-[13:12:31] [Server thread/INFO]: [Buckner7882: 2340 blocks cloned]
-[13:12:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2237ms behind, skipping 44 tick(s)
-[13:13:16] [Server thread/INFO]: [Buckner7882: 2340 blocks cloned]
-[13:13:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2531ms behind, skipping 50 tick(s)
-[13:51:58] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:51:58] [Server thread/INFO]: Buckner7882 left the game
-[23:37:43] [User Authenticator #172/INFO]: UUID of player Buckner7882 is f9d7d32f-0738-417f-90a0-ffa21d70243a
-[23:37:43] [Server thread/INFO]: Buckner7882[/69.131.244.142:54143] logged in with entity id 56353142 at (-206.41590883516085, 87.83234818961152, -577.5349179789932)
-[23:37:43] [Server thread/INFO]: Buckner7882 joined the game
-[23:40:52] [Server thread/INFO]: [Buckner7882: 1035 blocks cloned]
-[23:42:31] [Server thread/INFO]: [Buckner7882: 2070 blocks cloned]
-[23:42:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
-[23:48:52] [Server thread/INFO]: [Buckner7882: 1035 blocks cloned]
-[23:49:42] [Server thread/INFO]: [Buckner7882: 2115 blocks cloned]
-[23:49:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3129ms behind, skipping 62 tick(s)
-[23:51:41] [Server thread/INFO]: [Buckner7882: 2115 blocks cloned]
-[23:51:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2795ms behind, skipping 55 tick(s)
+[00:00:52] [Server thread/INFO]: [Buckner7882: 2115 blocks cloned]
+[00:00:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2779ms behind, skipping 55 tick(s)
+[00:01:26] [Server thread/INFO]: [Buckner7882: 2115 blocks cloned]
+[00:01:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2787ms behind, skipping 55 tick(s)
+[00:01:57] [Server thread/INFO]: [Buckner7882: 2115 blocks cloned]
+[00:01:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2451ms behind, skipping 49 tick(s)
+[00:09:52] [Server thread/INFO]: [Buckner7882: 3150 blocks cloned]
+[00:09:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5448ms behind, skipping 108 tick(s)
+[00:10:20] [Server thread/INFO]: [Buckner7882: 3150 blocks cloned]
+[00:10:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5814ms behind, skipping 116 tick(s)
+[00:12:49] [Server thread/INFO]: Buckner7882 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:12:49] [Server thread/INFO]: Buckner7882 left the game
